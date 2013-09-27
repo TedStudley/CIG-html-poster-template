@@ -1,5 +1,5 @@
-@page-width: 48in;
-@page-height: 33.11in;
+@page-width: 47in;
+@page-height: 32in;
 
 @color-primary: #002666;
 @color-secondary: #2F4D6A;
@@ -20,6 +20,8 @@ body {
 
   padding: @body-padding-horz @body-padding-vert;
   margin: 0;
+
+  font-family: verdana, arial, helvetica, sans-serif;
 }
 
 #poster {
@@ -29,7 +31,6 @@ body {
   display: inline-block;
 
   border: 5px solid black;
-  border-radius: 50px;
 }
 
 @header-height: 5in;
@@ -40,21 +41,23 @@ body {
   
   margin: 0;
   padding: 0.5in;
+  
+  background-color: @color-primary !important;
 
-  background: none repeat scroll @color-primary;
-
-  border-width: 1px 1px 0px 1px;
-  border-style: solid;
-  border-color: black;
-  border-top-left-radius: 42px;
-  border-top-right-radius: 42px;
+  border-width: 1px 1px 0px 1px !important;
+  border-style: solid !important;
+  border-color: black !important;
 }
 
 #poster-title {
   font-size: 7em;
-  color: #FFFFFF;
+  color: #FFFFFF !important;
   
   text-align: center;
+}
+
+#header-logo {
+  width: 100%;
 }
 
 #header-accent-bar-primary {
@@ -63,7 +66,7 @@ body {
 
   margin: 0;
 
-  background: none repeat scroll @color-accent-primary;
+  background-color: @color-accent-primary !important;
   
   border-width: 0px 1px 0px 1px;
   border-style: solid;
@@ -76,7 +79,7 @@ body {
 
   margin: 0;
 
-  background: none repeat scroll @color-accent-secondary;
+  background-color: @color-accent-secondary !important;
 
   border-width: 0px 1px 0px 1px;
   border-style: solid;
@@ -88,10 +91,50 @@ body {
   width: 100%;
 
   margin: 0;
+  padding: 0.5in;
 
   border-width: 0px 1px 0px 1px;
   border-style: solid;
   border-color: black;
+}
+
+.col {
+  height: 100%;
+}
+
+.col-left {
+
+  border-width: 0px 2px 0px 0px;
+  border-style: solid;
+  border-color: @color-secondary !important;
+}
+
+.col-middle {
+  border-width: 0px 2px 0px 2px;
+  border-style: solid;
+  border-color: @color-secondary !important;
+}
+
+.col-right {
+  border-width: 0px 0px 0px 2px;
+  border-style: solid;
+  border-color: @color-secondary !important;
+}
+
+.section-header {
+  font-size: 5em;
+  color: @color-primary !important;
+  
+  margin: 0.125in;
+  padding: 0.125in 0.25in;
+
+  background-color: @color-accent-secondary !important;
+
+  border: 2px solid @color-accent-primary !important;
+}
+
+p {
+  font-size: 2em;
 }
 
 #footer-accent-bar {
@@ -100,7 +143,7 @@ body {
 
   margin: 0;
 
-  background: none repeat scroll @color-primary;
+  background-color: @color-primary !important;
 
   border-width: 0px 1px 0px 1px;
   border-style: solid;
@@ -112,10 +155,9 @@ body {
   width: 100%;
 
   margin: 0;
+  padding: 0.5in;
 
   border-width: 0px 1px 1px 1px;
   border-style: solid;
   border-color: black;
-  border-bottom-left-radius: 42px;
-  border-bottom-right-radius: 42px;
 }
