@@ -1,0 +1,79 @@
+html {
+  width: 48in;
+  height: 33.11in;
+}
+body {
+  width: 48in;
+  height: 33.11in;
+  padding: 0.5in 0.5in;
+  margin: 0;
+}
+#poster {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  border: 5px solid black;
+  border-radius: 50px;
+}
+#poster-header {
+  height: 5in;
+  width: 100%;
+  margin: 0;
+  padding: 0.5in;
+  background: none repeat scroll #002666;
+  border-width: 1px 1px 0px 1px;
+  border-style: solid;
+  border-color: black;
+  border-top-left-radius: 42px;
+  border-top-right-radius: 42px;
+}
+#poster-title {
+  font-size: 7em;
+  color: #FFFFFF;
+  text-align: center;
+}
+#header-accent-bar-primary {
+  height: 2px;
+  width: 100%;
+  margin: 0;
+  background: none repeat scroll #bf9900;
+  border-width: 0px 1px 0px 1px;
+  border-style: solid;
+  border-color: black;
+}
+#header-accent-bar-secondary {
+  height: 0.25in;
+  width: 100%;
+  margin: 0;
+  background: none repeat scroll #e5d699;
+  border-width: 0px 1px 0px 1px;
+  border-style: solid;
+  border-color: black;
+}
+#poster-body {
+  height: 22.735in;
+  width: 100%;
+  margin: 0;
+  border-width: 0px 1px 0px 1px;
+  border-style: solid;
+  border-color: black;
+}
+#footer-accent-bar {
+  height: 2px;
+  width: 100%;
+  margin: 0;
+  background: none repeat scroll #002666;
+  border-width: 0px 1px 0px 1px;
+  border-style: solid;
+  border-color: black;
+}
+#footer {
+  height: 4in;
+  width: 100%;
+  margin: 0;
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+  border-color: black;
+  border-bottom-left-radius: 42px;
+  border-bottom-right-radius: 42px;
+}
