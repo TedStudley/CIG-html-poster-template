@@ -21,12 +21,17 @@ body {
   margin: 0;
   padding: 0.5in;
   background-color: #002666 !important;
-  border-width: 1px 1px 0px 1px !important;
-  border-style: solid !important;
-  border-color: black !important;
+  border-width: 1px 1px 0px 1px;
+  border-style: solid;
+  border-color: black;
 }
 #poster-title {
-  font-size: 7em;
+  font-size: 8em;
+  color: #FFFFFF !important;
+  text-align: center;
+}
+#poster-authors {
+  font-size: 4em;
   color: #FFFFFF !important;
   text-align: center;
 }
@@ -62,6 +67,7 @@ body {
 }
 .col {
   height: 100%;
+  padding: 0in 0.25in;
 }
 .col-left {
   border-width: 0px 2px 0px 0px;
@@ -87,10 +93,10 @@ body {
   border: 2px solid #bf9900 !important;
 }
 p {
-  font-size: 2em;
+  font-size: 3em;
 }
 #footer-accent-bar {
-  height: 2px;
+  height: 4px;
   width: 100%;
   margin: 0;
   background-color: #002666 !important;
@@ -106,4 +112,22 @@ p {
   border-width: 0px 1px 1px 1px;
   border-style: solid;
   border-color: black;
+}
+#footer-logo-left {
+  height: 100%;
+  padding: 0 0.25in 0 0;
+  border-width: 0px 4px 0px 0px;
+  border-style: solid;
+  border-color: #2f4d6a !important;
+}
+#footer-logo-right {
+  height: 100%;
+  padding: 0 0.25in 0 0.25in;
+  border-width: 0px 0px 0px 4px;
+  border-style: solid;
+  border-color: #2f4d6a !important;
+}
+#footer-notes {
+  font-size: 3em;
+  text-align: center;
 }
