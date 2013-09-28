@@ -67,7 +67,7 @@ body {
 }
 .col {
   height: 100%;
-  padding: 0in 0.25in;
+  padding: 0in;
 }
 .col-left {
   border-width: 0px 2px 0px 0px;
@@ -86,14 +86,17 @@ body {
 }
 .section-header {
   font-size: 5em;
+  font-weight: bold;
   color: #002666 !important;
-  margin: 0.125in;
-  padding: 0.125in 0.25in;
+  margin: 0in;
+  padding: 0.125in 0in 0in 0.125in;
   background-color: #e5d699 !important;
   border: 2px solid #bf9900 !important;
+  border-radius: 8px;
 }
 p {
   font-size: 3em;
+  text-align: justify;
 }
 #footer-accent-bar {
   height: 4px;
