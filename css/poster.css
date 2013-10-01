@@ -13,7 +13,7 @@ body {
   width: 100%;
   height: 100%;
   display: inline-block;
-  border: 5px solid black;
+  border: 5px solid #333;
 }
 #poster-header {
   height: 5in;
@@ -23,15 +23,16 @@ body {
   background-color: #002666 !important;
   border-width: 1px 1px 0px 1px;
   border-style: solid;
-  border-color: black;
+  border-color: #333;
+  overflow-y: hidden;
 }
 #poster-title {
-  font-size: 8em;
+  font-size: 12em;
   color: #FFFFFF !important;
   text-align: center;
 }
 #poster-authors {
-  font-size: 4em;
+  font-size: 5em;
   color: #FFFFFF !important;
   text-align: center;
 }
@@ -39,13 +40,13 @@ body {
   width: 100%;
 }
 #header-accent-bar-primary {
-  height: 2px;
+  height: 3px;
   width: 100%;
   margin: 0;
   background-color: #bf9900 !important;
   border-width: 0px 1px 0px 1px;
   border-style: solid;
-  border-color: black;
+  border-color: #333;
 }
 #header-accent-bar-secondary {
   height: 0.25in;
@@ -54,7 +55,7 @@ body {
   background-color: #e5d699 !important;
   border-width: 0px 1px 0px 1px;
   border-style: solid;
-  border-color: black;
+  border-color: #333;
 }
 #poster-body {
   height: 21.625in;
@@ -63,7 +64,8 @@ body {
   padding: 0.5in;
   border-width: 0px 1px 0px 1px;
   border-style: solid;
-  border-color: black;
+  border-color: #333;
+  overflow-y: hidden;
 }
 .col {
   height: 100%;
@@ -98,6 +100,31 @@ p {
   font-size: 3em;
   text-align: justify;
 }
+.media {
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+  background-color: #e5d699 !important;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #bf9900 !important;
+  border-radius: 10px;
+}
+.media-image {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #bf9900 !important;
+}
+.media-caption {
+  font-size: 2em;
+  word-wrap: break-word;
+}
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
 #footer-accent-bar {
   height: 4px;
   width: 100%;
@@ -105,7 +132,7 @@ p {
   background-color: #002666 !important;
   border-width: 0px 1px 0px 1px;
   border-style: solid;
-  border-color: black;
+  border-color: #333 !important;
 }
 #footer {
   height: 4in;
@@ -114,7 +141,7 @@ p {
   padding: 0.5in;
   border-width: 0px 1px 1px 1px;
   border-style: solid;
-  border-color: black;
+  border-color: #333 !important;
 }
 #footer-logo-left {
   height: 100%;
