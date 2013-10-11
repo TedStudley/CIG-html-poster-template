@@ -1,6 +1,5 @@
 $(document).ready(function () {
-  $('.media').each(function ( index ) {
-    let imgwidth = $(this).children("media-image").width();
-    alert(imgwidth);
+  $('.media').each(function () {
+    $(this).children(".media-caption").css("width", $(this).find("img").width());
   });
 });
