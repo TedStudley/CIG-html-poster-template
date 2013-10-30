@@ -138,17 +138,23 @@ body {
 }
 
 .section-header {
+  margin: 0in;
+
+  background-color: @color-accent-secondary !important;
+}
+
+.section-header p {
   font-size: 4em;
   font-weight: bold;
   color: @color-primary !important;
-  
-  margin: 0in;
-  padding: 0in 0in 0in 0.25in;
 
-  background-color: @color-accent-secondary !important;
+  margin-left: 0.25in;
+}
 
-  border: 2px solid @color-accent-primary !important;
-  border-radius: 8px;
+.section-header-accent-bar {
+  background-color: @color-accent-primary !important;
+  height: 8px;
+  width: 100%;
 }
 
 p {
@@ -165,7 +171,6 @@ p {
 
   background-color: @color-accent-secondary !important;
 
-  border-width: 4px;
   border-style: solid;
   border-color: @color-accent-primary !important;
   border-radius: 10px;

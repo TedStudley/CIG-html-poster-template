@@ -90,14 +90,19 @@ body {
   border-color: #2f4d6a !important;
 }
 .section-header {
+  margin: 0in;
+  background-color: #e5d699 !important;
+}
+.section-header p {
   font-size: 4em;
   font-weight: bold;
   color: #002666 !important;
-  margin: 0in;
-  padding: 0in 0in 0in 0.25in;
-  background-color: #e5d699 !important;
-  border: 2px solid #bf9900 !important;
-  border-radius: 8px;
+  margin-left: 0.25in;
+}
+.section-header-accent-bar {
+  background-color: #bf9900 !important;
+  height: 8px;
+  width: 100%;
 }
 p {
   font-size: 2em;
@@ -108,7 +113,6 @@ p {
   padding: 10px;
   display: inline-block;
   background-color: #e5d699 !important;
-  border-width: 4px;
   border-style: solid;
   border-color: #bf9900 !important;
   border-radius: 10px;
