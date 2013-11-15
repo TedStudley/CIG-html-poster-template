@@ -45,7 +45,18 @@ $(document).ready(function () {
     $(header).unwrap().wrap('<div class="section-header"/>').wrap('<p/>');
     $(header).parent().after('<div class="section-header-accent-bar"/>');
   });
-
+  
+  $('media').each(function () {
+    $(this).wrap('<div class="media" style="float: right;"></div>');
+    $(this).wrap('<div class="media-image"></div>');
+    var mediaImgDiv = $(this).parent();
+    var mediaDiv = $(mediaImgDiv).parent();
+    $(mediaImgDiv).append('<img src="' + $(this).attr('src') +'"/>');
+    $(mediaDiv).append('<div class="media-caption">' + $(this).attr('caption') + '</div>');
+    $(mediaDiv).children('.media-caption').css('width', '601px');
+    $(this).remove();
+  });
+  
   $('#footer').append('<div class="col-xs-4" id="footer-logo-left"></div>');
   $('#footer-logo-left').html('<img id="CIG-logo" src="images/logos/CIG-logo.gif">');
   $('#footer').append('<div class="col-xs-4" id="footer-center"></div>');

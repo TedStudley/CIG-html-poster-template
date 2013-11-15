@@ -15,9 +15,40 @@
   </affiliations>
 
   <column-1>
-    <p>More stuff here</p>
     <section-header>Introduction and Background</section-header>
-    <p>This is where the information and background go!</p>
+    <p>
+      The overshoot problem in computational modeling is an effect which may 
+      occur when attempting to model behavior of a field with a sharp or 
+      discontinuous gradient. Gradients such as these, which may appear in 
+      shockwave simulations or temperature advection and diffusion models, are 
+      often necessary to represent an interface between materials or 
+      conditions.
+    </p>
+    <media src="images/overshoot-custom-square-advection.svg" 
+           caption="Advection of a hot blob through a cold medium may cause overshoot and undershoot on sharp gradients along the direction of advection."></media>
+    <p>
+      For example, a sharp temperature gradient may occur in 
+      mantle convection simulation when a cold subducting slab comes into 
+      contact with the warmer mantle. The overshoot problem is when overshoot
+      and undershoot occur along a steep gradient, caused by inherent numeric
+      instabilities in the method used to simulate the model in question.
+    </p>
+    <p>
+      For the purposes of this report, we will consider the overshoot problem in
+      the mantle convection simulation code ASPECT (Advanced Solver for Problems 
+      in Earth's ConvecTion) as well as in a small test code written explicitly
+      to test the overshoot phenomenon.
+    </p>
+    <section-header>Overshoot in ASPECT</section-header>
+    <p>
+      ASPECT is a mantle convection simulation tool which uses a finite element
+      solver to model the incompressible fluid flow of the Earth's mantle. Aspect
+      was chosen for this poster as part of an attempt to find a solve the overshoot
+      problem in a finite element mantle convection code which, to our knowledge, has
+      not yet been accomplished. The overshoot problem in ASPECT occurs in two
+      places: temperature advection and temperature diffusion. Temperature
+      advection in ASPECT is done using a 
+    </p>
   </column>
 
   <column-2>
