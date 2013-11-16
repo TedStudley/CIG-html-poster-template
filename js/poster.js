@@ -3,6 +3,8 @@ $(document).ready(function () {
   scripts.appendTo('head');
   $('head').append('<link rel="stylesheet" href="css/poster.css"/>');
   $('head').append('<link rel="stylesheet" href="css/bootstrap.min.css"/>');
+  $('head').append('<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>');
+  $('head').append('<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [["$","$"], ["\\\\(","\\\\)"]]}});</script>');
 
   $('body').prepend('<div id="poster">' + $('poster').html() + '</div>');
   $('poster').remove();
@@ -47,16 +49,23 @@ $(document).ready(function () {
   });
   
   $('media').each(function () {
-    $(this).wrap('<div class="media" style="float: right;"></div>');
+    $(this).wrap('<div class="media" style="' + $(this).attr('style') + '"></div>');
     $(this).wrap('<div class="media-image"></div>');
     var mediaImgDiv = $(this).parent();
     var mediaDiv = $(mediaImgDiv).parent();
-    $(mediaImgDiv).append('<img src="' + $(this).attr('src') +'"/>');
+    $(mediaImgDiv).append('<img src="' + $(this).attr('src') +'" style="' + $(this).attr('imgSize') + '"/>');
     $(mediaDiv).append('<div class="media-caption">' + $(this).attr('caption') + '</div>');
-    $(mediaDiv).children('.media-caption').css('width', '601px');
+    $(mediaImgDiv).find('img').load(function () {
+      $(this).parent().parent().find('.media-caption').css('width', $(this).width());
+    });
     $(this).remove();
   });
   
+  $('equation-box').each(function () {
+    $(this).wrap('<div class="media" style="width: 99%;"> </div>');
+    $(this).wrap('<p></p>');
+  });
+
   $('#footer').append('<div class="col-xs-4" id="footer-logo-left"></div>');
   $('#footer-logo-left').html('<img id="CIG-logo" src="images/logos/CIG-logo.gif">');
   $('#footer').append('<div class="col-xs-4" id="footer-center"></div>');
@@ -73,4 +82,5 @@ $(document).ready(function () {
   $('#footer-logo-sm-right').html('<img id="NSF-logo" src="images/logos/NSF-logo.jpg">');
   $('#footer').append('<div class="col-xs-3" id="footer-logo-right"></div>');
   $('#footer-logo-right').html('<img id="UCD-logo" src="images/logos/ucdavis-logo.png">'); 
+
 });

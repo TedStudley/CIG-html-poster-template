@@ -19,15 +19,18 @@
     <p>
       The overshoot problem in computational modeling is an effect which may 
       occur when attempting to model behavior of a field with a sharp or 
-      discontinuous gradient. Gradients such as these, which may appear in 
-      shockwave simulations or temperature advection and diffusion models, are 
-      often necessary to represent an interface between materials or 
-      conditions.
+      discontinuous gradient.
     </p>
     <media src="images/overshoot-custom-square-advection.svg" 
-           caption="Advection of a hot blob through a cold medium may cause overshoot and undershoot on sharp gradients along the direction of advection."></media>
-    <p>
-      For example, a sharp temperature gradient may occur in 
+           caption="Advection of a hot blob through a cold medium may cause overshoot and undershoot on sharp gradients along the direction of advection."
+           style="float: right;"
+           imgSize="width: 400px;"></media>
+
+    <p> 
+      Gradients such as these, which may appear in 
+      shockwave simulations or temperature advection and diffusion models, are 
+      often necessary to represent an interface between materials or 
+      conditions. For example, a sharp temperature gradient may occur in 
       mantle convection simulation when a cold subducting slab comes into 
       contact with the warmer mantle. The overshoot problem is when overshoot
       and undershoot occur along a steep gradient, caused by inherent numeric
@@ -40,20 +43,66 @@
       to test the overshoot phenomenon.
     </p>
     <section-header>Overshoot in ASPECT</section-header>
+    <media src="images/overshoot-aspect-square-advection.svg"
+           caption="Overshoot due to advection in<br>ASPECT"
+           style="float: right;"
+           imgSize="width: 400px;"></media>
+    <media src="images/overshoot-aspect-square-diffusion.svg"
+           caption="Overshoot due to diffusion in<br>ASPECT"
+           style="float: left;"
+           imgSize="width: 400px;"></media>      
     <p>
       ASPECT is a mantle convection simulation tool which uses a finite element
-      solver to model the incompressible fluid flow of the Earth's mantle. Aspect
-      was chosen for this poster as part of an attempt to find a solve the overshoot
-      problem in a finite element mantle convection code which, to our knowledge, has
-      not yet been accomplished. The overshoot problem in ASPECT occurs in two
-      places: temperature advection and temperature diffusion. Temperature
-      advection in ASPECT is done using a 
+      solver to model the incompressible fluid flow of the Earth's mantle. 
+      Aspect was chosen for this poster as part of an attempt to find a solve 
+      the overshoot problem in a finite element mantle convection code which, 
+      to our knowledge, has not yet been accomplished. The overshoot problem in
+      ASPECT occurs in two places: temperature advection and temperature 
+      diffusion. Both temperature advection and diffusion in ASPECT are solved
+      using a semi-implicit BDF-2 scheme, which uses a multi-step backwards
+      approximation to the finite difference approximation of $\frac{\delta T}{\delta t}$
+      from times $t^{n}$, $t^{n-1}$, and $t^{n - 2}$. This provides an 
+      up-to-second-order approximation to the exact solution of the 
+      advection-diffusion equations, but is also capable of nonphysical 
+      oscillations along sharp gradients when used in a finite element 
+      formulation, causing the overshoot problem which we are attempting to 
+      fix. To word towards determining the cause of this overshoot, we created
+      a simple finite-difference code to experiment with possible causes and
+      solutions in a more simplistic framework.
     </p>
   </column>
 
   <column-2>
-    <section-header>More Stuff</section-header>
-    <p>This is where more information goes!</p>
+    <section-header>Finite-Difference Overshoot</section-header>
+    <p>
+      In a finite-difference code, the overshoot problem can again be broken 
+      down into causes from temperature advection and temperature diffusion.
+      In this way, the advection-diffusion equation $u_{t}+\beta\cdot\nabla
+      {u}+\varepsilon\nabla^{2}{u}=0$ can be split into an advection equation
+      $u_{t}=-\beta\cdot\nabla{u}$ and a diffusion equation $u_t=-\varepsilon
+      \nabla^{2}{u}$. Then, each of these equations may be solved separately 
+      to determine what causes in each case.
+    </p>
+    <p>
+      In the first case, for the advection equation, we may discretize the
+      equation to be solved numerically using numeric equations (in the 1D
+      case) as $\frac{u_{j}^{n+1}-u_{j}^{n}}{\Delta t} = -\beta [u_{j}^{n}]_{x}$, 
+      or $u_{j}^{n+1}=u_{j}^{n} - \beta \Delta t [u_{j}^{n}]_{x}$. Then,the choice
+      of solver depends upon our discretization of $[u_{j}^{n}]_{x}$, of which 
+      there are several. The na&iuml;ve choice of discretization is the 
+      backward-difference discretization, $[u_{j}^{n}]_{x}=\frac{u_{j+1}^{n}-
+      u_{j}^{n}}{\Delta x}$, also known as the upwind method. In addition, one
+      can create several second-order accurate methods by using a second term,
+      yielding the second-order Lax-Wendroff, Beam-Warming, and Fromm methods:<br>
+    </p>
+    <equation-box>
+      $\left[u_{j}^{n}\right]_{x}=\frac{u_{j+1}^{n}-u_{j}^{n}}{\Delta x} + \left[\frac{1}{2\Delta x}-\frac{\beta\Delta t}{\Delta x}\left(u_{j}^{n} - 2u_{j-1}^{n} + u_{j-2}^{n}\right)\right]$,<br>
+      $\left[u_{j}^{n}\right]_{x}=\frac{u_{j+1}^{n}-u_{j}^{n}}{\Delta x} + \left[\frac{1}{2\Delta x}-\frac{\beta\Delta t}{\Delta x}\left(u_{j + 1}^{n} - 2u_{j}^{n} + u_{j-1}^{n}\right)\right]$, and<br>
+      $\left[u_{j}^{n}\right]_{x}=\frac{u_{j+1}^{n}-u_{j}^{n}}{\Delta x} + \left[\frac{1}{4\Delta x} - \frac{\beta\Delta t}{2\Delta x}\left(u_{j + 1}^{n} - u_{j}^{n} - u_{j - 1}^{n} + u_{j - 2}^{n}\right)\right]$, respectively.
+    </equation-box>
+    <p>
+      Upwind method does not overshoot on discontinuous data but is innacurate, while Lax Wendroff, Beam-Warming, and Fromm's methods are more accurate, but do overshoot on discontinuous data.
+    </p>
   </column>
     
   <column-3>
