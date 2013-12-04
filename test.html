@@ -1,31 +1,33 @@
 <poster>
   <title>The Overshoot Problem in Mantle Convection Models</title>
   <authors>
-    <author aff="1,2" name="Ted H. Studley"></author>
-    <author aff="2" name="Elbridge G. Puckett"></author>
+    <author aff="1,3" name="Ted H. Studley"></author>
+    <author aff="3" name="Elbridge G. Puckett"></author>
     <author aff="1" name="Rajesh Kommu"></author>
     <author aff="1" name="Eric M. Heien"></author>
-    <author aff="1" name="Louise H. Kellogg"></author>
+    <author aff="1,2" name="Louise H. Kellogg"></author>
   </authors>
   <affiliations>
-    <affiliation aff="1" name="Department of Earth and Planetary Sciences"
+    <affiliation aff="1" name="Computational Infrastructure for Geodynamics"
                          loc="University of California, Davis"/>
-    <affiliation aff="2" name="Department of Mathematics"
+    <affiliation aff="2" name="Department of Earth and Planetary Sciences"
+                         loc="University of California, Davis"/>
+    <affiliation aff="3" name="Department of Mathematics"
                          loc="University of California, Davis"/>
   </affiliations>
 
   <column-1>
     <section-header>Introduction and Background</section-header>
-    <p>
-      The overshoot problem in computational modeling is an effect which may 
-      occur when attempting to model behavior of a field with a sharp or 
-      discontinuous gradient.
-    </p>
     <media src="images/overshoot-custom-square-advection.svg" 
            caption="Advection of a hot blob through a cold medium may cause overshoot and undershoot on sharp gradients along the direction of advection."
            style="float: right;"
            imgSize="width: 400px;"></media>
 
+    <p>
+      The overshoot problem in computational modeling is an effect which may 
+      occur when attempting to model behavior of a field with a sharp or 
+      discontinuous gradient.
+    </p>
     <p> 
       Gradients such as these, which may appear in 
       shockwave simulations or temperature advection and diffusion models, are 
@@ -36,13 +38,13 @@
       and undershoot occur along a steep gradient, caused by inherent numeric
       instabilities in the method used to simulate the model in question.
     </p>
+    <section-header>Overshoot in Mantle Convection Codes</section-header>
     <p>
       For the purposes of this report, we will consider the overshoot problem in
       the mantle convection simulation code ASPECT (Advanced Solver for Problems 
       in Earth's ConvecTion) as well as in a small test code written explicitly
       to test the overshoot phenomenon.
     </p>
-    <section-header>Overshoot in ASPECT</section-header>
     <media src="images/overshoot-aspect-square-advection.svg"
            caption="Overshoot due to advection in<br>ASPECT"
            style="float: right;"
