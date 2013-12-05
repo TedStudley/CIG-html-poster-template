@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15834095"
-     inkscape:cx="1399.8246"
-     inkscape:cy="1499.0278"
+     inkscape:zoom="0.89571168"
+     inkscape:cx="3685.24"
+     inkscape:cy="1065.6272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="ft"
      inkscape:snap-grids="true"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:window-width="1600"
      inkscape:window-height="845"
      inkscape:window-x="-2"
@@ -236,6 +236,17 @@
          d="m 0,0 3736,0 0,658.594 -3736,0 L 0,0 z"
          id="path4742" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7583">
+      <rect
+         style="fill:none;stroke:#2f4d6a;stroke-width:4.68117189;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect7585"
+         width="568.59357"
+         height="476.70758"
+         x="-2.4653904"
+         y="1.8341347" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -255,13 +266,1036 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
+    <g
+       transform="matrix(0.79128854,0,0,0.92273272,3779.9523,-934.38121)"
+       id="gnuplot_canvas-1"
+       clip-path="url(#clipPath7583)">
+      <rect
+         style="fill:none"
+         x="0"
+         y="0"
+         width="600"
+         height="480"
+         id="rect32219" />
+      <defs
+         id="defs32221">
+        <circle
+           style="stroke-width:0.5"
+           sodipodi:ry="0.5"
+           sodipodi:rx="0.5"
+           sodipodi:cy="0"
+           sodipodi:cx="0"
+           cy="0"
+           cx="0"
+           id="gpDot-2"
+           r="0.5" />
+        <path
+           style="stroke:currentColor;stroke-width:0.222"
+           inkscape:connector-curvature="0"
+           id="gpPt0-3"
+           d="M -1,0 H 1 M 0,-1 v 2" />
+        <path
+           style="stroke:currentColor;stroke-width:0.222"
+           inkscape:connector-curvature="0"
+           id="gpPt1-2"
+           d="M -1,-1 1,1 M 1,-1 -1,1" />
+        <path
+           style="stroke:currentColor;stroke-width:0.222"
+           inkscape:connector-curvature="0"
+           id="gpPt2-9"
+           d="M -1,0 1,0 M 0,-1 0,1 m -1,-2 2,2 m -2,0 2,-2" />
+        <rect
+           style="stroke:currentColor;stroke-width:0.222"
+           id="gpPt3-9"
+           x="-1"
+           y="-1"
+           width="2"
+           height="2" />
+        <rect
+           style="fill:currentColor;stroke:currentColor;stroke-width:0.222"
+           id="gpPt4-0"
+           x="-1"
+           y="-1"
+           width="2"
+           height="2" />
+        <circle
+           style="stroke:currentColor;stroke-width:0.222"
+           sodipodi:ry="1"
+           sodipodi:rx="1"
+           sodipodi:cy="0"
+           sodipodi:cx="0"
+           id="gpPt5-7"
+           cx="0"
+           cy="0"
+           r="1" />
+        <use
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           style="fill:currentColor;stroke:none"
+           xlink:href="#gpPt5-7"
+           id="gpPt6-7" />
+        <path
+           style="stroke:currentColor;stroke-width:0.222"
+           inkscape:connector-curvature="0"
+           id="gpPt7-3"
+           d="m 0,-1.33 -1.33,2 2.66,0 z" />
+        <use
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           style="fill:currentColor;stroke:none"
+           xlink:href="#gpPt7-3"
+           id="gpPt8-4" />
+        <use
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           style="stroke:currentColor"
+           xlink:href="#gpPt7-3"
+           id="gpPt9-6"
+           transform="scale(-1,-1)" />
+        <use
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           style="fill:currentColor;stroke:none"
+           xlink:href="#gpPt9-6"
+           id="gpPt10-5" />
+        <use
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           style="stroke:currentColor"
+           xlink:href="#gpPt3-9"
+           id="gpPt11-4"
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+        <use
+           height="1"
+           width="1"
+           y="0"
+           x="0"
+           style="fill:currentColor;stroke:none"
+           xlink:href="#gpPt11-4"
+           id="gpPt12-9" />
+      </defs>
+      <g
+         style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g32237" />
+      <g
+         style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g32239">
+        <g
+           style="stroke:none"
+           id="g32241">
+          <polygon
+             style="fill:#ffffff"
+             points="599.9,480 599.9,0.1 0,0.1 0,480 "
+             id="polygon32243" />
+        </g>
+        <path
+           style="stroke:#000000"
+           inkscape:connector-curvature="0"
+           d="M 0,480 0,0.1 599.9,0.1 599.9,480 0,480 m 71.9,-91.4 9,0 m 418,0 -9,0 h 0.01"
+           id="path32245" />
+        <g
+           transform="translate(63.6,393.1)"
+           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+           id="g32247">
+          <text
+             id="text32249">0</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,321 9,0 m 418,0 -9,0 h 0.01"
+           id="path32251" />
+        <g
+           transform="translate(63.6,325.5)"
+           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+           id="g32253">
+          <text
+             id="text32255">0.2</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,253.4 9,0 m 418,0 -9,0 h 0.01"
+           id="path32257" />
+        <g
+           transform="translate(63.6,257.9)"
+           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+           id="g32259">
+          <text
+             id="text32261">0.4</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,185.7 9,0 m 418,0 -9,0 h 0.01"
+           id="path32263" />
+        <g
+           transform="translate(63.6,190.2)"
+           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+           id="g32265">
+          <text
+             id="text32267">0.6</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,118.1 9,0 m 418,0 -9,0 h 0.01"
+           id="path32269" />
+        <g
+           transform="translate(63.6,122.6)"
+           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+           id="g32271">
+          <text
+             id="text32273">0.8</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,50.5 9,0 m 418,0 -9,0 h 0.01"
+           id="path32275" />
+        <g
+           transform="translate(63.6,55)"
+           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
+           id="g32277">
+          <text
+             id="text32279">1</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+           id="path32281" />
+        <g
+           transform="translate(71.9,444.9)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32283">
+          <text
+             id="text32285">0</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 157.3,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+           id="path32287" />
+        <g
+           transform="translate(157.3,444.9)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32289">
+          <text
+             id="text32291">0.2</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 242.7,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+           id="path32293" />
+        <g
+           transform="translate(242.7,444.9)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32295">
+          <text
+             id="text32297">0.4</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 328.1,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+           id="path32299" />
+        <g
+           transform="translate(328.1,444.9)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32301">
+          <text
+             id="text32303">0.6</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 413.5,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+           id="path32305" />
+        <g
+           transform="translate(413.5,444.9)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32307">
+          <text
+             id="text32309">0.8</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 498.9,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
+           id="path32311" />
+        <g
+           transform="translate(498.9,444.9)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32313">
+          <text
+             id="text32315">1</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,16.7 0,405.7 427,0 0,-405.7 -427,0 z m 0,0 h 0.01"
+           id="path32317" />
+        <g
+           transform="matrix(0,-1,1,0,17.6,219.6)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32319">
+          <text
+             id="text32321">Temperature</text>
+        </g>
+        <g
+           transform="translate(285.4,471.9)"
+           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
+           id="g32323">
+          <text
+             id="text32325">x</text>
+        </g>
+      </g>
+      <g
+         id="gnuplot_plot_1-6">
+        <title
+           id="title32328">gnuplot_plot_1</title>
+        <g
+           style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+           id="g32330" />
+        <g
+           style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
+           id="g32332">
+          <path
+             style="stroke:#000090"
+             inkscape:connector-curvature="0"
+             d="m 71.9,388.6 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 h 0.01"
+             id="path32334" />
+          <path
+             style="stroke:#000094"
+             inkscape:connector-curvature="0"
+             d="m 175.3,388.6 0.8,-1.4 h 0.01"
+             id="path32336" />
+          <path
+             style="stroke:#0009d3"
+             inkscape:connector-curvature="0"
+             d="M 176.1,387.2 177,363 h 0.01"
+             id="path32338" />
+          <path
+             style="stroke:#0084ff"
+             inkscape:connector-curvature="0"
+             d="m 177,363 0.8,-55.1 h 0.01"
+             id="path32340" />
+          <path
+             style="stroke:#4effb1"
+             inkscape:connector-curvature="0"
+             d="m 177.8,307.9 0.9,-66.6 h 0.01"
+             id="path32342" />
+          <path
+             style="stroke:#ffed00"
+             inkscape:connector-curvature="0"
+             d="m 178.7,241.3 0.8,-64.4 h 0.01"
+             id="path32344" />
+          <path
+             style="stroke:#fb5300"
+             inkscape:connector-curvature="0"
+             d="m 179.5,176.9 0.8,-53 h 0.01"
+             id="path32346" />
+          <path
+             style="stroke:#de0000"
+             inkscape:connector-curvature="0"
+             d="m 180.3,123.9 0.9,-37.4 h 0.01"
+             id="path32348" />
+          <path
+             style="stroke:#a30000"
+             inkscape:connector-curvature="0"
+             d="M 181.2,86.5 182,64.4 h 0.01"
+             id="path32350" />
+          <path
+             style="stroke:#890000"
+             inkscape:connector-curvature="0"
+             d="m 182,64.4 0.8,-10 h 0.01"
+             id="path32352" />
+          <path
+             style="stroke:#820000"
+             inkscape:connector-curvature="0"
+             d="m 182.8,54.4 0.9,-2.9 h 0.01"
+             id="path32354" />
+          <path
+             style="stroke:#800000"
+             inkscape:connector-curvature="0"
+             d="m 183.7,51.5 0.8,-0.7 h 0.01"
+             id="path32356" />
+          <path
+             style="stroke:#7f0000"
+             inkscape:connector-curvature="0"
+             d="m 184.5,50.8 0.8,-0.2 0.9,-0.1 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 h 0.01"
+             id="path32358" />
+          <path
+             style="stroke:#830000"
+             inkscape:connector-curvature="0"
+             d="m 388.8,50.5 0.8,1.4 h 0.01"
+             id="path32360" />
+          <path
+             style="stroke:#c20000"
+             inkscape:connector-curvature="0"
+             d="m 389.6,51.9 0.9,24.2 h 0.01"
+             id="path32362" />
+          <path
+             style="stroke:#fd6600"
+             inkscape:connector-curvature="0"
+             d="m 390.5,76.1 0.8,55.1 h 0.01"
+             id="path32364" />
+          <path
+             style="stroke:#c9f636"
+             inkscape:connector-curvature="0"
+             d="m 391.3,131.2 0.9,66.6 h 0.01"
+             id="path32366" />
+          <path
+             style="stroke:#0ffeee"
+             inkscape:connector-curvature="0"
+             d="m 392.2,197.8 0.8,64.4 h 0.01"
+             id="path32368" />
+          <path
+             style="stroke:#006eff"
+             inkscape:connector-curvature="0"
+             d="m 393,262.2 0.8,53 h 0.01"
+             id="path32370" />
+          <path
+             style="stroke:#000def"
+             inkscape:connector-curvature="0"
+             d="m 393.8,315.2 0.9,37.4 h 0.01"
+             id="path32372" />
+          <path
+             style="stroke:#0005b4"
+             inkscape:connector-curvature="0"
+             d="m 394.7,352.6 0.8,22.1 h 0.01"
+             id="path32374" />
+          <path
+             style="stroke:#00019a"
+             inkscape:connector-curvature="0"
+             d="m 395.5,374.7 0.8,10 h 0.01"
+             id="path32376" />
+          <path
+             style="stroke:#000093"
+             inkscape:connector-curvature="0"
+             d="m 396.3,384.7 0.9,2.9 h 0.01"
+             id="path32378" />
+          <path
+             style="stroke:#000091"
+             inkscape:connector-curvature="0"
+             d="m 397.2,387.6 0.8,0.7 h 0.01"
+             id="path32380" />
+          <path
+             style="stroke:#000090"
+             inkscape:connector-curvature="0"
+             d="m 398,388.3 0.8,0.2 0.9,0.1 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 h 0.01"
+             id="path32382" />
+        </g>
+      </g>
+      <g
+         style="color:#ffffff;fill:none;stroke:#000090;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g32384" />
+      <g
+         style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
+         id="g32386">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 71.9,16.7 0,405.7 427,0 0,-405.7 -427,0 z m 0,0 h 0.01"
+           id="path32388" />
+        <g
+           style="stroke:none"
+           id="g32390">
+          <polygon
+             style="fill:#000090"
+             points="530.9,422.4 530.9,419.2 509.6,419.2 509.6,422.4 "
+             id="polygon32392" />
+          <polygon
+             style="fill:#000197"
+             points="530.9,419.3 530.9,416 509.6,416 509.6,419.3 "
+             id="polygon32394" />
+          <polygon
+             style="fill:#00029e"
+             points="530.9,416.1 530.9,412.8 509.6,412.8 509.6,416.1 "
+             id="polygon32396" />
+          <polygon
+             style="fill:#0003a5"
+             points="530.9,412.9 530.9,409.7 509.6,409.7 509.6,412.9 "
+             id="polygon32398" />
+          <polygon
+             style="fill:#0004ac"
+             points="530.9,409.8 530.9,406.5 509.6,406.5 509.6,409.8 "
+             id="polygon32400" />
+          <polygon
+             style="fill:#0005b3"
+             points="530.9,406.6 530.9,403.3 509.6,403.3 509.6,406.6 "
+             id="polygon32402" />
+          <polygon
+             style="fill:#0006ba"
+             points="530.9,403.4 530.9,400.2 509.6,400.2 509.6,403.4 "
+             id="polygon32404" />
+          <polygon
+             style="fill:#0007c1"
+             points="530.9,400.3 530.9,397 509.6,397 509.6,400.3 "
+             id="polygon32406" />
+          <polygon
+             style="fill:#0008c8"
+             points="530.9,397.1 530.9,393.8 509.6,393.8 509.6,397.1 "
+             id="polygon32408" />
+          <polygon
+             style="fill:#0008cf"
+             points="530.9,393.9 530.9,390.7 509.6,390.7 509.6,393.9 "
+             id="polygon32410" />
+          <polygon
+             style="fill:#0009d5"
+             points="530.9,390.8 530.9,387.5 509.6,387.5 509.6,390.8 "
+             id="polygon32412" />
+          <polygon
+             style="fill:#000adc"
+             points="530.9,387.6 530.9,384.3 509.6,384.3 509.6,387.6 "
+             id="polygon32414" />
+          <polygon
+             style="fill:#000be3"
+             points="530.9,384.4 530.9,381.1 509.6,381.1 509.6,384.4 "
+             id="polygon32416" />
+          <polygon
+             style="fill:#000cea"
+             points="530.9,381.2 530.9,378 509.6,378 509.6,381.2 "
+             id="polygon32418" />
+          <polygon
+             style="fill:#000df1"
+             points="530.9,378.1 530.9,374.8 509.6,374.8 509.6,378.1 "
+             id="polygon32420" />
+          <polygon
+             style="fill:#000ef8"
+             points="530.9,374.9 530.9,371.6 509.6,371.6 509.6,374.9 "
+             id="polygon32422" />
+          <polygon
+             style="fill:#000fff"
+             points="530.9,371.7 530.9,368.5 509.6,368.5 509.6,371.7 "
+             id="polygon32424" />
+          <polygon
+             style="fill:#0017ff"
+             points="530.9,368.6 530.9,365.3 509.6,365.3 509.6,368.6 "
+             id="polygon32426" />
+          <polygon
+             style="fill:#001fff"
+             points="530.9,365.4 530.9,362.1 509.6,362.1 509.6,365.4 "
+             id="polygon32428" />
+          <polygon
+             style="fill:#0027ff"
+             points="530.9,362.2 530.9,359 509.6,359 509.6,362.2 "
+             id="polygon32430" />
+          <polygon
+             style="fill:#002fff"
+             points="530.9,359.1 530.9,355.8 509.6,355.8 509.6,359.1 "
+             id="polygon32432" />
+          <polygon
+             style="fill:#0037ff"
+             points="530.9,355.9 530.9,352.6 509.6,352.6 509.6,355.9 "
+             id="polygon32434" />
+          <polygon
+             style="fill:#0040ff"
+             points="530.9,352.7 530.9,349.5 509.6,349.5 509.6,352.7 "
+             id="polygon32436" />
+          <polygon
+             style="fill:#0047ff"
+             points="530.9,349.6 530.9,346.3 509.6,346.3 509.6,349.6 "
+             id="polygon32438" />
+          <polygon
+             style="fill:#0050ff"
+             points="530.9,346.4 530.9,343.1 509.6,343.1 509.6,346.4 "
+             id="polygon32440" />
+          <polygon
+             style="fill:#0058ff"
+             points="530.9,343.2 530.9,339.9 509.6,339.9 509.6,343.2 "
+             id="polygon32442" />
+          <polygon
+             style="fill:#0060ff"
+             points="530.9,340 530.9,336.8 509.6,336.8 509.6,340 "
+             id="polygon32444" />
+          <polygon
+             style="fill:#0068ff"
+             points="530.9,336.9 530.9,333.6 509.6,333.6 509.6,336.9 "
+             id="polygon32446" />
+          <polygon
+             style="fill:#0070ff"
+             points="530.9,333.7 530.9,330.4 509.6,330.4 509.6,333.7 "
+             id="polygon32448" />
+          <polygon
+             style="fill:#0078ff"
+             points="530.9,330.5 530.9,327.3 509.6,327.3 509.6,330.5 "
+             id="polygon32450" />
+          <polygon
+             style="fill:#0080ff"
+             points="530.9,327.4 530.9,324.1 509.6,324.1 509.6,327.4 "
+             id="polygon32452" />
+          <polygon
+             style="fill:#0088ff"
+             points="530.9,324.2 530.9,320.9 509.6,320.9 509.6,324.2 "
+             id="polygon32454" />
+          <polygon
+             style="fill:#0090ff"
+             points="530.9,321 530.9,317.8 509.6,317.8 509.6,321 "
+             id="polygon32456" />
+          <polygon
+             style="fill:#0197fe"
+             points="530.9,317.9 530.9,314.6 509.6,314.6 509.6,317.9 "
+             id="polygon32458" />
+          <polygon
+             style="fill:#029efd"
+             points="530.9,314.7 530.9,311.4 509.6,311.4 509.6,314.7 "
+             id="polygon32460" />
+          <polygon
+             style="fill:#03a5fc"
+             points="530.9,311.5 530.9,308.2 509.6,308.2 509.6,311.5 "
+             id="polygon32462" />
+          <polygon
+             style="fill:#04acfb"
+             points="530.9,308.3 530.9,305.1 509.6,305.1 509.6,308.3 "
+             id="polygon32464" />
+          <polygon
+             style="fill:#05b3fa"
+             points="530.9,305.2 530.9,301.9 509.6,301.9 509.6,305.2 "
+             id="polygon32466" />
+          <polygon
+             style="fill:#06baf9"
+             points="530.9,302 530.9,298.7 509.6,298.7 509.6,302 "
+             id="polygon32468" />
+          <polygon
+             style="fill:#07c1f8"
+             points="530.9,298.8 530.9,295.6 509.6,295.6 509.6,298.8 "
+             id="polygon32470" />
+          <polygon
+             style="fill:#08c8f6"
+             points="530.9,295.7 530.9,292.4 509.6,292.4 509.6,295.7 "
+             id="polygon32472" />
+          <polygon
+             style="fill:#08cff5"
+             points="530.9,292.5 530.9,289.2 509.6,289.2 509.6,292.5 "
+             id="polygon32474" />
+          <polygon
+             style="fill:#09d6f4"
+             points="530.9,289.3 530.9,286.1 509.6,286.1 509.6,289.3 "
+             id="polygon32476" />
+          <polygon
+             style="fill:#0adcf3"
+             points="530.9,286.2 530.9,282.9 509.6,282.9 509.6,286.2 "
+             id="polygon32478" />
+          <polygon
+             style="fill:#0be3f2"
+             points="530.9,283 530.9,279.7 509.6,279.7 509.6,283 "
+             id="polygon32480" />
+          <polygon
+             style="fill:#0ceaf1"
+             points="530.9,279.8 530.9,276.6 509.6,276.6 509.6,279.8 "
+             id="polygon32482" />
+          <polygon
+             style="fill:#0df1f0"
+             points="530.9,276.7 530.9,273.4 509.6,273.4 509.6,276.7 "
+             id="polygon32484" />
+          <polygon
+             style="fill:#0ef8ef"
+             points="530.9,273.5 530.9,270.2 509.6,270.2 509.6,273.5 "
+             id="polygon32486" />
+          <polygon
+             style="fill:#0fffee"
+             points="530.9,270.3 530.9,267 509.6,267 509.6,270.3 "
+             id="polygon32488" />
+          <polygon
+             style="fill:#17ffe6"
+             points="530.9,267.1 530.9,263.9 509.6,263.9 509.6,267.1 "
+             id="polygon32490" />
+          <polygon
+             style="fill:#1fffde"
+             points="530.9,264 530.9,260.7 509.6,260.7 509.6,264 "
+             id="polygon32492" />
+          <polygon
+             style="fill:#27ffd6"
+             points="530.9,260.8 530.9,257.5 509.6,257.5 509.6,260.8 "
+             id="polygon32494" />
+          <polygon
+             style="fill:#2fffce"
+             points="530.9,257.6 530.9,254.4 509.6,254.4 509.6,257.6 "
+             id="polygon32496" />
+          <polygon
+             style="fill:#37ffc7"
+             points="530.9,254.5 530.9,251.2 509.6,251.2 509.6,254.5 "
+             id="polygon32498" />
+          <polygon
+             style="fill:#3fffbf"
+             points="530.9,251.3 530.9,248 509.6,248 509.6,251.3 "
+             id="polygon32500" />
+          <polygon
+             style="fill:#48ffb7"
+             points="530.9,248.1 530.9,244.9 509.6,244.9 509.6,248.1 "
+             id="polygon32502" />
+          <polygon
+             style="fill:#50ffaf"
+             points="530.9,245 530.9,241.7 509.6,241.7 509.6,245 "
+             id="polygon32504" />
+          <polygon
+             style="fill:#58ffa7"
+             points="530.9,241.8 530.9,238.5 509.6,238.5 509.6,241.8 "
+             id="polygon32506" />
+          <polygon
+             style="fill:#60ff9f"
+             points="530.9,238.6 530.9,235.3 509.6,235.3 509.6,238.6 "
+             id="polygon32508" />
+          <polygon
+             style="fill:#68ff97"
+             points="530.9,235.4 530.9,232.2 509.6,232.2 509.6,235.4 "
+             id="polygon32510" />
+          <polygon
+             style="fill:#70ff8f"
+             points="530.9,232.3 530.9,229 509.6,229 509.6,232.3 "
+             id="polygon32512" />
+          <polygon
+             style="fill:#78ff87"
+             points="530.9,229.1 530.9,225.8 509.6,225.8 509.6,229.1 "
+             id="polygon32514" />
+          <polygon
+             style="fill:#80ff80"
+             points="530.9,225.9 530.9,222.7 509.6,222.7 509.6,225.9 "
+             id="polygon32516" />
+          <polygon
+             style="fill:#88ff78"
+             points="530.9,222.8 530.9,219.5 509.6,219.5 509.6,222.8 "
+             id="polygon32518" />
+          <polygon
+             style="fill:#90ff70"
+             points="530.9,219.6 530.9,216.3 509.6,216.3 509.6,219.6 "
+             id="polygon32520" />
+          <polygon
+             style="fill:#97fe69"
+             points="530.9,216.4 530.9,213.2 509.6,213.2 509.6,216.4 "
+             id="polygon32522" />
+          <polygon
+             style="fill:#9efd62"
+             points="530.9,213.3 530.9,210 509.6,210 509.6,213.3 "
+             id="polygon32524" />
+          <polygon
+             style="fill:#a5fc5b"
+             points="530.9,210.1 530.9,206.8 509.6,206.8 509.6,210.1 "
+             id="polygon32526" />
+          <polygon
+             style="fill:#acfb54"
+             points="530.9,206.9 530.9,203.7 509.6,203.7 509.6,206.9 "
+             id="polygon32528" />
+          <polygon
+             style="fill:#b3fa4d"
+             points="530.9,203.8 530.9,200.5 509.6,200.5 509.6,203.8 "
+             id="polygon32530" />
+          <polygon
+             style="fill:#baf946"
+             points="530.9,200.6 530.9,197.3 509.6,197.3 509.6,200.6 "
+             id="polygon32532" />
+          <polygon
+             style="fill:#c1f83f"
+             points="530.9,197.4 530.9,194.1 509.6,194.1 509.6,197.4 "
+             id="polygon32534" />
+          <polygon
+             style="fill:#c8f638"
+             points="530.9,194.2 530.9,191 509.6,191 509.6,194.2 "
+             id="polygon32536" />
+          <polygon
+             style="fill:#cef531"
+             points="530.9,191.1 530.9,187.8 509.6,187.8 509.6,191.1 "
+             id="polygon32538" />
+          <polygon
+             style="fill:#d5f42a"
+             points="530.9,187.9 530.9,184.6 509.6,184.6 509.6,187.9 "
+             id="polygon32540" />
+          <polygon
+             style="fill:#dcf323"
+             points="530.9,184.7 530.9,181.5 509.6,181.5 509.6,184.7 "
+             id="polygon32542" />
+          <polygon
+             style="fill:#e3f21c"
+             points="530.9,181.6 530.9,178.3 509.6,178.3 509.6,181.6 "
+             id="polygon32544" />
+          <polygon
+             style="fill:#eaf115"
+             points="530.9,178.4 530.9,175.1 509.6,175.1 509.6,178.4 "
+             id="polygon32546" />
+          <polygon
+             style="fill:#f1f00e"
+             points="530.9,175.2 530.9,172 509.6,172 509.6,175.2 "
+             id="polygon32548" />
+          <polygon
+             style="fill:#f8ef07"
+             points="530.9,172.1 530.9,168.8 509.6,168.8 509.6,172.1 "
+             id="polygon32550" />
+          <polygon
+             style="fill:#ffee00"
+             points="530.9,168.9 530.9,165.6 509.6,165.6 509.6,168.9 "
+             id="polygon32552" />
+          <polygon
+             style="fill:#ffe600"
+             points="530.9,165.7 530.9,162.4 509.6,162.4 509.6,165.7 "
+             id="polygon32554" />
+          <polygon
+             style="fill:#ffde00"
+             points="530.9,162.5 530.9,159.3 509.6,159.3 509.6,162.5 "
+             id="polygon32556" />
+          <polygon
+             style="fill:#ffd600"
+             points="530.9,159.4 530.9,156.1 509.6,156.1 509.6,159.4 "
+             id="polygon32558" />
+          <polygon
+             style="fill:#ffce00"
+             points="530.9,156.2 530.9,152.9 509.6,152.9 509.6,156.2 "
+             id="polygon32560" />
+          <polygon
+             style="fill:#ffc600"
+             points="530.9,153 530.9,149.8 509.6,149.8 509.6,153 "
+             id="polygon32562" />
+          <polygon
+             style="fill:#ffbf00"
+             points="530.9,149.9 530.9,146.6 509.6,146.6 509.6,149.9 "
+             id="polygon32564" />
+          <polygon
+             style="fill:#ffb700"
+             points="530.9,146.7 530.9,143.4 509.6,143.4 509.6,146.7 "
+             id="polygon32566" />
+          <polygon
+             style="fill:#ffaf00"
+             points="530.9,143.5 530.9,140.3 509.6,140.3 509.6,143.5 "
+             id="polygon32568" />
+          <polygon
+             style="fill:#ffa700"
+             points="530.9,140.4 530.9,137.1 509.6,137.1 509.6,140.4 "
+             id="polygon32570" />
+          <polygon
+             style="fill:#ff9f00"
+             points="530.9,137.2 530.9,133.9 509.6,133.9 509.6,137.2 "
+             id="polygon32572" />
+          <polygon
+             style="fill:#ff9700"
+             points="530.9,134 530.9,130.8 509.6,130.8 509.6,134 "
+             id="polygon32574" />
+          <polygon
+             style="fill:#ff8f00"
+             points="530.9,130.9 530.9,127.6 509.6,127.6 509.6,130.9 "
+             id="polygon32576" />
+          <polygon
+             style="fill:#ff8800"
+             points="530.9,127.7 530.9,124.4 509.6,124.4 509.6,127.7 "
+             id="polygon32578" />
+          <polygon
+             style="fill:#ff8000"
+             points="530.9,124.5 530.9,121.2 509.6,121.2 509.6,124.5 "
+             id="polygon32580" />
+          <polygon
+             style="fill:#ff7800"
+             points="530.9,121.3 530.9,118.1 509.6,118.1 509.6,121.3 "
+             id="polygon32582" />
+          <polygon
+             style="fill:#ff7000"
+             points="530.9,118.2 530.9,114.9 509.6,114.9 509.6,118.2 "
+             id="polygon32584" />
+          <polygon
+             style="fill:#fe6900"
+             points="530.9,115 530.9,111.7 509.6,111.7 509.6,115 "
+             id="polygon32586" />
+          <polygon
+             style="fill:#fd6200"
+             points="530.9,111.8 530.9,108.6 509.6,108.6 509.6,111.8 "
+             id="polygon32588" />
+          <polygon
+             style="fill:#fc5b00"
+             points="530.9,108.7 530.9,105.4 509.6,105.4 509.6,108.7 "
+             id="polygon32590" />
+          <polygon
+             style="fill:#fb5400"
+             points="530.9,105.5 530.9,102.2 509.6,102.2 509.6,105.5 "
+             id="polygon32592" />
+          <polygon
+             style="fill:#fa4d00"
+             points="530.9,102.3 530.9,99.1 509.6,99.1 509.6,102.3 "
+             id="polygon32594" />
+          <polygon
+             style="fill:#f94600"
+             points="530.9,99.2 530.9,95.9 509.6,95.9 509.6,99.2 "
+             id="polygon32596" />
+          <polygon
+             style="fill:#f83f00"
+             points="530.9,96 530.9,92.7 509.6,92.7 509.6,96 "
+             id="polygon32598" />
+          <polygon
+             style="fill:#f63800"
+             points="530.9,92.8 530.9,89.5 509.6,89.5 509.6,92.8 "
+             id="polygon32600" />
+          <polygon
+             style="fill:#f53100"
+             points="530.9,89.6 530.9,86.4 509.6,86.4 509.6,89.6 "
+             id="polygon32602" />
+          <polygon
+             style="fill:#f42a00"
+             points="530.9,86.5 530.9,83.2 509.6,83.2 509.6,86.5 "
+             id="polygon32604" />
+          <polygon
+             style="fill:#f32300"
+             points="530.9,83.3 530.9,80 509.6,80 509.6,83.3 "
+             id="polygon32606" />
+          <polygon
+             style="fill:#f21c00"
+             points="530.9,80.1 530.9,76.9 509.6,76.9 509.6,80.1 "
+             id="polygon32608" />
+          <polygon
+             style="fill:#f11500"
+             points="530.9,77 530.9,73.7 509.6,73.7 509.6,77 "
+             id="polygon32610" />
+          <polygon
+             style="fill:#f00e00"
+             points="530.9,73.8 530.9,70.5 509.6,70.5 509.6,73.8 "
+             id="polygon32612" />
+          <polygon
+             style="fill:#ef0700"
+             points="530.9,70.6 530.9,67.4 509.6,67.4 509.6,70.6 "
+             id="polygon32614" />
+          <polygon
+             style="fill:#ee0000"
+             points="530.9,67.5 530.9,64.2 509.6,64.2 509.6,67.5 "
+             id="polygon32616" />
+          <polygon
+             style="fill:#e70000"
+             points="530.9,64.3 530.9,61 509.6,61 509.6,64.3 "
+             id="polygon32618" />
+          <polygon
+             style="fill:#e00000"
+             points="530.9,61.1 530.9,57.9 509.6,57.9 509.6,61.1 "
+             id="polygon32620" />
+          <polygon
+             style="fill:#d90000"
+             points="530.9,58 530.9,54.7 509.6,54.7 509.6,58 "
+             id="polygon32622" />
+          <polygon
+             style="fill:#d20000"
+             points="530.9,54.8 530.9,51.5 509.6,51.5 509.6,54.8 "
+             id="polygon32624" />
+          <polygon
+             style="fill:#cb0000"
+             points="530.9,51.6 530.9,48.3 509.6,48.3 509.6,51.6 "
+             id="polygon32626" />
+          <polygon
+             style="fill:#c40000"
+             points="530.9,48.4 530.9,45.2 509.6,45.2 509.6,48.4 "
+             id="polygon32628" />
+          <polygon
+             style="fill:#bd0000"
+             points="530.9,45.3 530.9,42 509.6,42 509.6,45.3 "
+             id="polygon32630" />
+          <polygon
+             style="fill:#b60000"
+             points="530.9,42.1 530.9,38.8 509.6,38.8 509.6,42.1 "
+             id="polygon32632" />
+          <polygon
+             style="fill:#af0000"
+             points="530.9,38.9 530.9,35.7 509.6,35.7 509.6,38.9 "
+             id="polygon32634" />
+          <polygon
+             style="fill:#a90000"
+             points="530.9,35.8 530.9,32.5 509.6,32.5 509.6,35.8 "
+             id="polygon32636" />
+          <polygon
+             style="fill:#a20000"
+             points="530.9,32.6 530.9,29.3 509.6,29.3 509.6,32.6 "
+             id="polygon32638" />
+          <polygon
+             style="fill:#9b0000"
+             points="530.9,29.4 530.9,26.2 509.6,26.2 509.6,29.4 "
+             id="polygon32640" />
+          <polygon
+             style="fill:#940000"
+             points="530.9,26.3 530.9,23 509.6,23 509.6,26.3 "
+             id="polygon32642" />
+          <polygon
+             style="fill:#8d0000"
+             points="530.9,23.1 530.9,19.8 509.6,19.8 509.6,23.1 "
+             id="polygon32644" />
+          <polygon
+             style="fill:#860000"
+             points="530.9,19.9 530.9,16.7 509.6,16.7 509.6,19.9 "
+             id="polygon32646" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 509.6,422.4 21.3,0 0,-405.7 -21.3,0 0,405.7 z m 0,0 h 0.01"
+           id="path32648" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 530.9,422.4 -9,0 h 0.01"
+           id="path32650" />
+        <g
+           transform="translate(539.2,426.9)"
+           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
+           id="g32652">
+          <text
+             id="text32654">0</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 509.6,422.4 9,0 m 12.3,-81.1 -9,0 h 0.01"
+           id="path32656" />
+        <g
+           transform="translate(539.2,345.8)"
+           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
+           id="g32658">
+          <text
+             id="text32660">0.2</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 509.6,341.3 9,0 m 12.3,-81.1 -9,0 h 0.01"
+           id="path32662" />
+        <g
+           transform="translate(539.2,264.7)"
+           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
+           id="g32664">
+          <text
+             id="text32666">0.4</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 509.6,260.2 9,0 m 12.3,-81.2 -9,0 h 0.01"
+           id="path32668" />
+        <g
+           transform="translate(539.2,183.5)"
+           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
+           id="g32670">
+          <text
+             id="text32672">0.6</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 509.6,179 9,0 m 12.3,-81.1 -9,0 h 0.01"
+           id="path32674" />
+        <g
+           transform="translate(539.2,102.4)"
+           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
+           id="g32676">
+          <text
+             id="text32678">0.8</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 509.6,97.9 9,0 m 12.3,-81.2 -9,0 h 0.01"
+           id="path32680" />
+        <g
+           transform="translate(539.2,21.2)"
+           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
+           id="g32682">
+          <text
+             id="text32684">1</text>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 509.6,16.7 9,0 h 0.01"
+           id="path32686" />
+      </g>
+    </g>
     <rect
-       y="-920.54791"
-       x="3286.7798"
-       height="427.5"
-       width="945"
+       y="-932.72406"
+       x="3286.8047"
+       height="439.65137"
+       width="941.7854"
        id="rect32937"
-       style="fill:#e5d699;fill-opacity:1;stroke:#bf9900;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;fill-opacity:1;stroke:#bf9900;stroke-width:4.04954529000000019;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot3806"
@@ -2995,7 +4029,7 @@
            x="3175.3513"
            y="2157.2427" /></flowRegion><flowPara
          id="flowPara15509" /></flowRoot>    <g
-       transform="matrix(1.884912,0,0,-1.9297908,2581.7812,536.01191)"
+       transform="matrix(1.5787274,0,0,-1.7690586,2678.9911,520.77309)"
        inkscape:label="ink_ext_XXXXXX"
        id="g15538">
       <g
@@ -3871,19 +4905,19 @@
       </g>
     </g>
     <rect
-       style="fill:none;stroke:#bf9900;stroke-width:5.06613302;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#bf9900;stroke-width:5.1526742;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect16087"
-       width="626.93396"
-       height="384.70947"
-       x="2567.533"
-       y="163.6653" />
+       width="626.84741"
+       height="398.02008"
+       x="2567.5762"
+       y="150.3114" />
     <rect
-       style="fill:#e5d699;fill-opacity:1;stroke:#bf9900;stroke-width:4.03783083;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#e5d699;fill-opacity:1;stroke:#bf9900;stroke-width:4.48145151;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect16089"
-       width="363.76254"
-       height="385.73776"
-       x="2205.0188"
-       y="163.15115" />
+       width="433.52542"
+       height="398.69131"
+       x="2205.2407"
+       y="149.9758" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot16091"
@@ -3891,12 +4925,13 @@
        transform="translate(0,-2276.41)"><flowRegion
          id="flowRegion16093"><rect
            id="rect16095"
-           width="344.71426"
-           height="385.04175"
+           width="416.16586"
+           height="418.53473"
            x="2216.8901"
-           y="2439.533"
+           y="2423.9028"
            style="font-size:28px" /></flowRegion><flowPara
-         id="flowPara16097">The use of a piecewise linear flux approximation may lead to non-physical overshoots and undershoots along sharp gradients, due to the tendency of these approximations to over or under-estimate the flux across a sharp edge</flowPara></flowRoot>    <flowRoot
+         id="flowPara16097"
+         style="font-size:32px">The use of a piecewise linear flux approximation may lead to non-physical overshoots and undershoots along sharp gradients, due to the tendency of these approximations to over or under-estimate the flux across a sharp edge</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot16099"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -4815,1035 +5850,13 @@
            inkscape:connector-curvature="0"
            d="m 672.21256,439.57 0,0.01 0,0.01 0,0 0,0.01 0,0.01 0,0.01 0,0 0,0.01 0.01,0.02 0,0.03 0,0.02 0.01,0.02 0.01,0.03 0,0.03 0.01,0.02 0,0.03 0.01,0.03 0.01,0.03 0.01,0.06 0.02,0.06 0,0.03 0.01,0.02 0.01,0.03 0,0.03 0.01,0.02 0.01,0.02 0,0.02 0.01,0.02 0,0.01 0,0.01 0,0.01 0,0.01 0.01,0 0,0.01 0,0.01 0,0 0,0.01 0,0 0,0 0,0.01 c 0,0.04 0,0.5 -0.59,0.5 -0.5,0 -0.55,-0.16 -0.75,-1 l -2.89,-11.5 c -7.92,-0.25 -15.25,-6.88 -15.25,-13.66 0,-4.73 3.48,-8.67 9.56,-9.01 l 0.25,1.09 c -2.98,0.14 -6.58,1.89 -6.58,6.87 0,5.99 4.3,12.96 11.72,13.6 l -5.14,-20.47 -0.25,-1.09 c -0.39,-1.55 -0.73,-3.15 -1.14,-4.69 -0.59,-2.35 -1.09,-4.24 -1.09,-4.39 0,-0.49 0.34,-0.55 0.59,-0.55 0.25,0 0.36,0.06 0.5,0.2 0.09,0.1 0.41,1.3 0.55,2 l 1.89,7.43 0.25,1.09 5.14,20.47 c 3.78,-0.19 6.62,-2.49 6.62,-6.88 0,-5.87 -4.28,-13 -11.76,-13.59 l -0.25,-1.09 c 8.03,0.25 15.25,6.96 15.25,13.64 0,3.93 -2.64,8.53 -9.57,9.03 z"
            id="path30138-2" /></g>    </g>
-    <g
-       transform="matrix(0.88873697,0,0,0.88873697,3698.1821,-920.08605)"
-       id="gnuplot_canvas-1">
-      <rect
-         style="fill:none"
-         x="0"
-         y="0"
-         width="600"
-         height="480"
-         id="rect32219" />
-      <defs
-         id="defs32221">
-        <circle
-           style="stroke-width:0.5"
-           sodipodi:ry="0.5"
-           sodipodi:rx="0.5"
-           sodipodi:cy="0"
-           sodipodi:cx="0"
-           cy="0"
-           cx="0"
-           id="gpDot-2"
-           r="0.5" />
-        <path
-           style="stroke:currentColor;stroke-width:0.222"
-           inkscape:connector-curvature="0"
-           id="gpPt0-3"
-           d="M -1,0 H 1 M 0,-1 v 2" />
-        <path
-           style="stroke:currentColor;stroke-width:0.222"
-           inkscape:connector-curvature="0"
-           id="gpPt1-2"
-           d="M -1,-1 1,1 M 1,-1 -1,1" />
-        <path
-           style="stroke:currentColor;stroke-width:0.222"
-           inkscape:connector-curvature="0"
-           id="gpPt2-9"
-           d="M -1,0 1,0 M 0,-1 0,1 m -1,-2 2,2 m -2,0 2,-2" />
-        <rect
-           style="stroke:currentColor;stroke-width:0.222"
-           id="gpPt3-9"
-           x="-1"
-           y="-1"
-           width="2"
-           height="2" />
-        <rect
-           style="fill:currentColor;stroke:currentColor;stroke-width:0.222"
-           id="gpPt4-0"
-           x="-1"
-           y="-1"
-           width="2"
-           height="2" />
-        <circle
-           style="stroke:currentColor;stroke-width:0.222"
-           sodipodi:ry="1"
-           sodipodi:rx="1"
-           sodipodi:cy="0"
-           sodipodi:cx="0"
-           id="gpPt5-7"
-           cx="0"
-           cy="0"
-           r="1" />
-        <use
-           height="1"
-           width="1"
-           y="0"
-           x="0"
-           style="fill:currentColor;stroke:none"
-           xlink:href="#gpPt5-7"
-           id="gpPt6-7" />
-        <path
-           style="stroke:currentColor;stroke-width:0.222"
-           inkscape:connector-curvature="0"
-           id="gpPt7-3"
-           d="m 0,-1.33 -1.33,2 2.66,0 z" />
-        <use
-           height="1"
-           width="1"
-           y="0"
-           x="0"
-           style="fill:currentColor;stroke:none"
-           xlink:href="#gpPt7-3"
-           id="gpPt8-4" />
-        <use
-           height="1"
-           width="1"
-           y="0"
-           x="0"
-           style="stroke:currentColor"
-           xlink:href="#gpPt7-3"
-           id="gpPt9-6"
-           transform="scale(-1,-1)" />
-        <use
-           height="1"
-           width="1"
-           y="0"
-           x="0"
-           style="fill:currentColor;stroke:none"
-           xlink:href="#gpPt9-6"
-           id="gpPt10-5" />
-        <use
-           height="1"
-           width="1"
-           y="0"
-           x="0"
-           style="stroke:currentColor"
-           xlink:href="#gpPt3-9"
-           id="gpPt11-4"
-           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
-        <use
-           height="1"
-           width="1"
-           y="0"
-           x="0"
-           style="fill:currentColor;stroke:none"
-           xlink:href="#gpPt11-4"
-           id="gpPt12-9" />
-      </defs>
-      <g
-         style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
-         id="g32237" />
-      <g
-         style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
-         id="g32239">
-        <g
-           style="stroke:none"
-           id="g32241">
-          <polygon
-             style="fill:#ffffff"
-             points="0,0.1 0,480 599.9,480 599.9,0.1 "
-             id="polygon32243" />
-        </g>
-        <path
-           style="stroke:#000000"
-           inkscape:connector-curvature="0"
-           d="M 0,480 0,0.1 599.9,0.1 599.9,480 0,480 m 71.9,-91.4 9,0 m 418,0 -9,0 h 0.01"
-           id="path32245" />
-        <g
-           transform="translate(63.6,393.1)"
-           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
-           id="g32247">
-          <text
-             id="text32249">0</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,321 9,0 m 418,0 -9,0 h 0.01"
-           id="path32251" />
-        <g
-           transform="translate(63.6,325.5)"
-           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
-           id="g32253">
-          <text
-             id="text32255">0.2</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,253.4 9,0 m 418,0 -9,0 h 0.01"
-           id="path32257" />
-        <g
-           transform="translate(63.6,257.9)"
-           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
-           id="g32259">
-          <text
-             id="text32261">0.4</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,185.7 9,0 m 418,0 -9,0 h 0.01"
-           id="path32263" />
-        <g
-           transform="translate(63.6,190.2)"
-           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
-           id="g32265">
-          <text
-             id="text32267">0.6</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,118.1 9,0 m 418,0 -9,0 h 0.01"
-           id="path32269" />
-        <g
-           transform="translate(63.6,122.6)"
-           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
-           id="g32271">
-          <text
-             id="text32273">0.8</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,50.5 9,0 m 418,0 -9,0 h 0.01"
-           id="path32275" />
-        <g
-           transform="translate(63.6,55)"
-           style="font-size:15px;text-anchor:end;fill:#000000;stroke:none;font-family:Arial"
-           id="g32277">
-          <text
-             id="text32279">1</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
-           id="path32281" />
-        <g
-           transform="translate(71.9,444.9)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32283">
-          <text
-             id="text32285">0</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 157.3,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
-           id="path32287" />
-        <g
-           transform="translate(157.3,444.9)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32289">
-          <text
-             id="text32291">0.2</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 242.7,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
-           id="path32293" />
-        <g
-           transform="translate(242.7,444.9)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32295">
-          <text
-             id="text32297">0.4</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 328.1,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
-           id="path32299" />
-        <g
-           transform="translate(328.1,444.9)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32301">
-          <text
-             id="text32303">0.6</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 413.5,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
-           id="path32305" />
-        <g
-           transform="translate(413.5,444.9)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32307">
-          <text
-             id="text32309">0.8</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 498.9,422.4 0,-9 m 0,-396.7 0,9 h 0.01"
-           id="path32311" />
-        <g
-           transform="translate(498.9,444.9)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32313">
-          <text
-             id="text32315">1</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,16.7 0,405.7 427,0 0,-405.7 -427,0 z m 0,0 h 0.01"
-           id="path32317" />
-        <g
-           transform="matrix(0,-1,1,0,17.6,219.6)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32319">
-          <text
-             id="text32321">Temperature</text>
-        </g>
-        <g
-           transform="translate(285.4,471.9)"
-           style="font-size:15px;text-anchor:middle;fill:#000000;stroke:none;font-family:Arial"
-           id="g32323">
-          <text
-             id="text32325">x</text>
-        </g>
-      </g>
-      <g
-         id="gnuplot_plot_1-6">
-        <title
-           id="title32328">gnuplot_plot_1</title>
-        <g
-           style="color:#ffffff;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
-           id="g32330" />
-        <g
-           style="color:#ff0000;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter"
-           id="g32332">
-          <path
-             style="stroke:#000090"
-             inkscape:connector-curvature="0"
-             d="m 71.9,388.6 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 h 0.01"
-             id="path32334" />
-          <path
-             style="stroke:#000094"
-             inkscape:connector-curvature="0"
-             d="m 175.3,388.6 0.8,-1.4 h 0.01"
-             id="path32336" />
-          <path
-             style="stroke:#0009d3"
-             inkscape:connector-curvature="0"
-             d="M 176.1,387.2 177,363 h 0.01"
-             id="path32338" />
-          <path
-             style="stroke:#0084ff"
-             inkscape:connector-curvature="0"
-             d="m 177,363 0.8,-55.1 h 0.01"
-             id="path32340" />
-          <path
-             style="stroke:#4effb1"
-             inkscape:connector-curvature="0"
-             d="m 177.8,307.9 0.9,-66.6 h 0.01"
-             id="path32342" />
-          <path
-             style="stroke:#ffed00"
-             inkscape:connector-curvature="0"
-             d="m 178.7,241.3 0.8,-64.4 h 0.01"
-             id="path32344" />
-          <path
-             style="stroke:#fb5300"
-             inkscape:connector-curvature="0"
-             d="m 179.5,176.9 0.8,-53 h 0.01"
-             id="path32346" />
-          <path
-             style="stroke:#de0000"
-             inkscape:connector-curvature="0"
-             d="m 180.3,123.9 0.9,-37.4 h 0.01"
-             id="path32348" />
-          <path
-             style="stroke:#a30000"
-             inkscape:connector-curvature="0"
-             d="M 181.2,86.5 182,64.4 h 0.01"
-             id="path32350" />
-          <path
-             style="stroke:#890000"
-             inkscape:connector-curvature="0"
-             d="m 182,64.4 0.8,-10 h 0.01"
-             id="path32352" />
-          <path
-             style="stroke:#820000"
-             inkscape:connector-curvature="0"
-             d="m 182.8,54.4 0.9,-2.9 h 0.01"
-             id="path32354" />
-          <path
-             style="stroke:#800000"
-             inkscape:connector-curvature="0"
-             d="m 183.7,51.5 0.8,-0.7 h 0.01"
-             id="path32356" />
-          <path
-             style="stroke:#7f0000"
-             inkscape:connector-curvature="0"
-             d="m 184.5,50.8 0.8,-0.2 0.9,-0.1 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 h 0.01"
-             id="path32358" />
-          <path
-             style="stroke:#830000"
-             inkscape:connector-curvature="0"
-             d="m 388.8,50.5 0.8,1.4 h 0.01"
-             id="path32360" />
-          <path
-             style="stroke:#c20000"
-             inkscape:connector-curvature="0"
-             d="m 389.6,51.9 0.9,24.2 h 0.01"
-             id="path32362" />
-          <path
-             style="stroke:#fd6600"
-             inkscape:connector-curvature="0"
-             d="m 390.5,76.1 0.8,55.1 h 0.01"
-             id="path32364" />
-          <path
-             style="stroke:#c9f636"
-             inkscape:connector-curvature="0"
-             d="m 391.3,131.2 0.9,66.6 h 0.01"
-             id="path32366" />
-          <path
-             style="stroke:#0ffeee"
-             inkscape:connector-curvature="0"
-             d="m 392.2,197.8 0.8,64.4 h 0.01"
-             id="path32368" />
-          <path
-             style="stroke:#006eff"
-             inkscape:connector-curvature="0"
-             d="m 393,262.2 0.8,53 h 0.01"
-             id="path32370" />
-          <path
-             style="stroke:#000def"
-             inkscape:connector-curvature="0"
-             d="m 393.8,315.2 0.9,37.4 h 0.01"
-             id="path32372" />
-          <path
-             style="stroke:#0005b4"
-             inkscape:connector-curvature="0"
-             d="m 394.7,352.6 0.8,22.1 h 0.01"
-             id="path32374" />
-          <path
-             style="stroke:#00019a"
-             inkscape:connector-curvature="0"
-             d="m 395.5,374.7 0.8,10 h 0.01"
-             id="path32376" />
-          <path
-             style="stroke:#000093"
-             inkscape:connector-curvature="0"
-             d="m 396.3,384.7 0.9,2.9 h 0.01"
-             id="path32378" />
-          <path
-             style="stroke:#000091"
-             inkscape:connector-curvature="0"
-             d="m 397.2,387.6 0.8,0.7 h 0.01"
-             id="path32380" />
-          <path
-             style="stroke:#000090"
-             inkscape:connector-curvature="0"
-             d="m 398,388.3 0.8,0.2 0.9,0.1 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 0.8,0 0.8,0 0.9,0 h 0.01"
-             id="path32382" />
-        </g>
-      </g>
-      <g
-         style="color:#ffffff;fill:none;stroke:#000090;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
-         id="g32384" />
-      <g
-         style="color:#000000;fill:none;stroke:currentColor;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter"
-         id="g32386">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 71.9,16.7 0,405.7 427,0 0,-405.7 -427,0 z m 0,0 h 0.01"
-           id="path32388" />
-        <g
-           style="stroke:none"
-           id="g32390">
-          <polygon
-             style="fill:#000090"
-             points="509.6,419.2 509.6,422.4 530.9,422.4 530.9,419.2 "
-             id="polygon32392" />
-          <polygon
-             style="fill:#000197"
-             points="509.6,416 509.6,419.3 530.9,419.3 530.9,416 "
-             id="polygon32394" />
-          <polygon
-             style="fill:#00029e"
-             points="509.6,412.8 509.6,416.1 530.9,416.1 530.9,412.8 "
-             id="polygon32396" />
-          <polygon
-             style="fill:#0003a5"
-             points="509.6,409.7 509.6,412.9 530.9,412.9 530.9,409.7 "
-             id="polygon32398" />
-          <polygon
-             style="fill:#0004ac"
-             points="509.6,406.5 509.6,409.8 530.9,409.8 530.9,406.5 "
-             id="polygon32400" />
-          <polygon
-             style="fill:#0005b3"
-             points="509.6,403.3 509.6,406.6 530.9,406.6 530.9,403.3 "
-             id="polygon32402" />
-          <polygon
-             style="fill:#0006ba"
-             points="509.6,400.2 509.6,403.4 530.9,403.4 530.9,400.2 "
-             id="polygon32404" />
-          <polygon
-             style="fill:#0007c1"
-             points="509.6,397 509.6,400.3 530.9,400.3 530.9,397 "
-             id="polygon32406" />
-          <polygon
-             style="fill:#0008c8"
-             points="509.6,393.8 509.6,397.1 530.9,397.1 530.9,393.8 "
-             id="polygon32408" />
-          <polygon
-             style="fill:#0008cf"
-             points="509.6,390.7 509.6,393.9 530.9,393.9 530.9,390.7 "
-             id="polygon32410" />
-          <polygon
-             style="fill:#0009d5"
-             points="509.6,387.5 509.6,390.8 530.9,390.8 530.9,387.5 "
-             id="polygon32412" />
-          <polygon
-             style="fill:#000adc"
-             points="509.6,384.3 509.6,387.6 530.9,387.6 530.9,384.3 "
-             id="polygon32414" />
-          <polygon
-             style="fill:#000be3"
-             points="509.6,381.1 509.6,384.4 530.9,384.4 530.9,381.1 "
-             id="polygon32416" />
-          <polygon
-             style="fill:#000cea"
-             points="509.6,378 509.6,381.2 530.9,381.2 530.9,378 "
-             id="polygon32418" />
-          <polygon
-             style="fill:#000df1"
-             points="509.6,374.8 509.6,378.1 530.9,378.1 530.9,374.8 "
-             id="polygon32420" />
-          <polygon
-             style="fill:#000ef8"
-             points="509.6,371.6 509.6,374.9 530.9,374.9 530.9,371.6 "
-             id="polygon32422" />
-          <polygon
-             style="fill:#000fff"
-             points="509.6,368.5 509.6,371.7 530.9,371.7 530.9,368.5 "
-             id="polygon32424" />
-          <polygon
-             style="fill:#0017ff"
-             points="509.6,365.3 509.6,368.6 530.9,368.6 530.9,365.3 "
-             id="polygon32426" />
-          <polygon
-             style="fill:#001fff"
-             points="509.6,362.1 509.6,365.4 530.9,365.4 530.9,362.1 "
-             id="polygon32428" />
-          <polygon
-             style="fill:#0027ff"
-             points="509.6,359 509.6,362.2 530.9,362.2 530.9,359 "
-             id="polygon32430" />
-          <polygon
-             style="fill:#002fff"
-             points="509.6,355.8 509.6,359.1 530.9,359.1 530.9,355.8 "
-             id="polygon32432" />
-          <polygon
-             style="fill:#0037ff"
-             points="509.6,352.6 509.6,355.9 530.9,355.9 530.9,352.6 "
-             id="polygon32434" />
-          <polygon
-             style="fill:#0040ff"
-             points="509.6,349.5 509.6,352.7 530.9,352.7 530.9,349.5 "
-             id="polygon32436" />
-          <polygon
-             style="fill:#0047ff"
-             points="509.6,346.3 509.6,349.6 530.9,349.6 530.9,346.3 "
-             id="polygon32438" />
-          <polygon
-             style="fill:#0050ff"
-             points="509.6,343.1 509.6,346.4 530.9,346.4 530.9,343.1 "
-             id="polygon32440" />
-          <polygon
-             style="fill:#0058ff"
-             points="509.6,339.9 509.6,343.2 530.9,343.2 530.9,339.9 "
-             id="polygon32442" />
-          <polygon
-             style="fill:#0060ff"
-             points="509.6,336.8 509.6,340 530.9,340 530.9,336.8 "
-             id="polygon32444" />
-          <polygon
-             style="fill:#0068ff"
-             points="509.6,333.6 509.6,336.9 530.9,336.9 530.9,333.6 "
-             id="polygon32446" />
-          <polygon
-             style="fill:#0070ff"
-             points="509.6,330.4 509.6,333.7 530.9,333.7 530.9,330.4 "
-             id="polygon32448" />
-          <polygon
-             style="fill:#0078ff"
-             points="509.6,327.3 509.6,330.5 530.9,330.5 530.9,327.3 "
-             id="polygon32450" />
-          <polygon
-             style="fill:#0080ff"
-             points="509.6,324.1 509.6,327.4 530.9,327.4 530.9,324.1 "
-             id="polygon32452" />
-          <polygon
-             style="fill:#0088ff"
-             points="509.6,320.9 509.6,324.2 530.9,324.2 530.9,320.9 "
-             id="polygon32454" />
-          <polygon
-             style="fill:#0090ff"
-             points="509.6,317.8 509.6,321 530.9,321 530.9,317.8 "
-             id="polygon32456" />
-          <polygon
-             style="fill:#0197fe"
-             points="509.6,314.6 509.6,317.9 530.9,317.9 530.9,314.6 "
-             id="polygon32458" />
-          <polygon
-             style="fill:#029efd"
-             points="509.6,311.4 509.6,314.7 530.9,314.7 530.9,311.4 "
-             id="polygon32460" />
-          <polygon
-             style="fill:#03a5fc"
-             points="509.6,308.2 509.6,311.5 530.9,311.5 530.9,308.2 "
-             id="polygon32462" />
-          <polygon
-             style="fill:#04acfb"
-             points="509.6,305.1 509.6,308.3 530.9,308.3 530.9,305.1 "
-             id="polygon32464" />
-          <polygon
-             style="fill:#05b3fa"
-             points="509.6,301.9 509.6,305.2 530.9,305.2 530.9,301.9 "
-             id="polygon32466" />
-          <polygon
-             style="fill:#06baf9"
-             points="509.6,298.7 509.6,302 530.9,302 530.9,298.7 "
-             id="polygon32468" />
-          <polygon
-             style="fill:#07c1f8"
-             points="509.6,295.6 509.6,298.8 530.9,298.8 530.9,295.6 "
-             id="polygon32470" />
-          <polygon
-             style="fill:#08c8f6"
-             points="509.6,292.4 509.6,295.7 530.9,295.7 530.9,292.4 "
-             id="polygon32472" />
-          <polygon
-             style="fill:#08cff5"
-             points="509.6,289.2 509.6,292.5 530.9,292.5 530.9,289.2 "
-             id="polygon32474" />
-          <polygon
-             style="fill:#09d6f4"
-             points="509.6,286.1 509.6,289.3 530.9,289.3 530.9,286.1 "
-             id="polygon32476" />
-          <polygon
-             style="fill:#0adcf3"
-             points="509.6,282.9 509.6,286.2 530.9,286.2 530.9,282.9 "
-             id="polygon32478" />
-          <polygon
-             style="fill:#0be3f2"
-             points="509.6,279.7 509.6,283 530.9,283 530.9,279.7 "
-             id="polygon32480" />
-          <polygon
-             style="fill:#0ceaf1"
-             points="509.6,276.6 509.6,279.8 530.9,279.8 530.9,276.6 "
-             id="polygon32482" />
-          <polygon
-             style="fill:#0df1f0"
-             points="509.6,273.4 509.6,276.7 530.9,276.7 530.9,273.4 "
-             id="polygon32484" />
-          <polygon
-             style="fill:#0ef8ef"
-             points="509.6,270.2 509.6,273.5 530.9,273.5 530.9,270.2 "
-             id="polygon32486" />
-          <polygon
-             style="fill:#0fffee"
-             points="509.6,267 509.6,270.3 530.9,270.3 530.9,267 "
-             id="polygon32488" />
-          <polygon
-             style="fill:#17ffe6"
-             points="509.6,263.9 509.6,267.1 530.9,267.1 530.9,263.9 "
-             id="polygon32490" />
-          <polygon
-             style="fill:#1fffde"
-             points="509.6,260.7 509.6,264 530.9,264 530.9,260.7 "
-             id="polygon32492" />
-          <polygon
-             style="fill:#27ffd6"
-             points="509.6,257.5 509.6,260.8 530.9,260.8 530.9,257.5 "
-             id="polygon32494" />
-          <polygon
-             style="fill:#2fffce"
-             points="509.6,254.4 509.6,257.6 530.9,257.6 530.9,254.4 "
-             id="polygon32496" />
-          <polygon
-             style="fill:#37ffc7"
-             points="509.6,251.2 509.6,254.5 530.9,254.5 530.9,251.2 "
-             id="polygon32498" />
-          <polygon
-             style="fill:#3fffbf"
-             points="509.6,248 509.6,251.3 530.9,251.3 530.9,248 "
-             id="polygon32500" />
-          <polygon
-             style="fill:#48ffb7"
-             points="509.6,244.9 509.6,248.1 530.9,248.1 530.9,244.9 "
-             id="polygon32502" />
-          <polygon
-             style="fill:#50ffaf"
-             points="509.6,241.7 509.6,245 530.9,245 530.9,241.7 "
-             id="polygon32504" />
-          <polygon
-             style="fill:#58ffa7"
-             points="509.6,238.5 509.6,241.8 530.9,241.8 530.9,238.5 "
-             id="polygon32506" />
-          <polygon
-             style="fill:#60ff9f"
-             points="509.6,235.3 509.6,238.6 530.9,238.6 530.9,235.3 "
-             id="polygon32508" />
-          <polygon
-             style="fill:#68ff97"
-             points="509.6,232.2 509.6,235.4 530.9,235.4 530.9,232.2 "
-             id="polygon32510" />
-          <polygon
-             style="fill:#70ff8f"
-             points="509.6,229 509.6,232.3 530.9,232.3 530.9,229 "
-             id="polygon32512" />
-          <polygon
-             style="fill:#78ff87"
-             points="509.6,225.8 509.6,229.1 530.9,229.1 530.9,225.8 "
-             id="polygon32514" />
-          <polygon
-             style="fill:#80ff80"
-             points="509.6,222.7 509.6,225.9 530.9,225.9 530.9,222.7 "
-             id="polygon32516" />
-          <polygon
-             style="fill:#88ff78"
-             points="509.6,219.5 509.6,222.8 530.9,222.8 530.9,219.5 "
-             id="polygon32518" />
-          <polygon
-             style="fill:#90ff70"
-             points="509.6,216.3 509.6,219.6 530.9,219.6 530.9,216.3 "
-             id="polygon32520" />
-          <polygon
-             style="fill:#97fe69"
-             points="509.6,213.2 509.6,216.4 530.9,216.4 530.9,213.2 "
-             id="polygon32522" />
-          <polygon
-             style="fill:#9efd62"
-             points="509.6,210 509.6,213.3 530.9,213.3 530.9,210 "
-             id="polygon32524" />
-          <polygon
-             style="fill:#a5fc5b"
-             points="509.6,206.8 509.6,210.1 530.9,210.1 530.9,206.8 "
-             id="polygon32526" />
-          <polygon
-             style="fill:#acfb54"
-             points="509.6,203.7 509.6,206.9 530.9,206.9 530.9,203.7 "
-             id="polygon32528" />
-          <polygon
-             style="fill:#b3fa4d"
-             points="509.6,200.5 509.6,203.8 530.9,203.8 530.9,200.5 "
-             id="polygon32530" />
-          <polygon
-             style="fill:#baf946"
-             points="509.6,197.3 509.6,200.6 530.9,200.6 530.9,197.3 "
-             id="polygon32532" />
-          <polygon
-             style="fill:#c1f83f"
-             points="509.6,194.1 509.6,197.4 530.9,197.4 530.9,194.1 "
-             id="polygon32534" />
-          <polygon
-             style="fill:#c8f638"
-             points="509.6,191 509.6,194.2 530.9,194.2 530.9,191 "
-             id="polygon32536" />
-          <polygon
-             style="fill:#cef531"
-             points="509.6,187.8 509.6,191.1 530.9,191.1 530.9,187.8 "
-             id="polygon32538" />
-          <polygon
-             style="fill:#d5f42a"
-             points="509.6,184.6 509.6,187.9 530.9,187.9 530.9,184.6 "
-             id="polygon32540" />
-          <polygon
-             style="fill:#dcf323"
-             points="509.6,181.5 509.6,184.7 530.9,184.7 530.9,181.5 "
-             id="polygon32542" />
-          <polygon
-             style="fill:#e3f21c"
-             points="509.6,178.3 509.6,181.6 530.9,181.6 530.9,178.3 "
-             id="polygon32544" />
-          <polygon
-             style="fill:#eaf115"
-             points="509.6,175.1 509.6,178.4 530.9,178.4 530.9,175.1 "
-             id="polygon32546" />
-          <polygon
-             style="fill:#f1f00e"
-             points="509.6,172 509.6,175.2 530.9,175.2 530.9,172 "
-             id="polygon32548" />
-          <polygon
-             style="fill:#f8ef07"
-             points="509.6,168.8 509.6,172.1 530.9,172.1 530.9,168.8 "
-             id="polygon32550" />
-          <polygon
-             style="fill:#ffee00"
-             points="509.6,165.6 509.6,168.9 530.9,168.9 530.9,165.6 "
-             id="polygon32552" />
-          <polygon
-             style="fill:#ffe600"
-             points="509.6,162.4 509.6,165.7 530.9,165.7 530.9,162.4 "
-             id="polygon32554" />
-          <polygon
-             style="fill:#ffde00"
-             points="509.6,159.3 509.6,162.5 530.9,162.5 530.9,159.3 "
-             id="polygon32556" />
-          <polygon
-             style="fill:#ffd600"
-             points="509.6,156.1 509.6,159.4 530.9,159.4 530.9,156.1 "
-             id="polygon32558" />
-          <polygon
-             style="fill:#ffce00"
-             points="509.6,152.9 509.6,156.2 530.9,156.2 530.9,152.9 "
-             id="polygon32560" />
-          <polygon
-             style="fill:#ffc600"
-             points="509.6,149.8 509.6,153 530.9,153 530.9,149.8 "
-             id="polygon32562" />
-          <polygon
-             style="fill:#ffbf00"
-             points="509.6,146.6 509.6,149.9 530.9,149.9 530.9,146.6 "
-             id="polygon32564" />
-          <polygon
-             style="fill:#ffb700"
-             points="509.6,143.4 509.6,146.7 530.9,146.7 530.9,143.4 "
-             id="polygon32566" />
-          <polygon
-             style="fill:#ffaf00"
-             points="509.6,140.3 509.6,143.5 530.9,143.5 530.9,140.3 "
-             id="polygon32568" />
-          <polygon
-             style="fill:#ffa700"
-             points="509.6,137.1 509.6,140.4 530.9,140.4 530.9,137.1 "
-             id="polygon32570" />
-          <polygon
-             style="fill:#ff9f00"
-             points="509.6,133.9 509.6,137.2 530.9,137.2 530.9,133.9 "
-             id="polygon32572" />
-          <polygon
-             style="fill:#ff9700"
-             points="509.6,130.8 509.6,134 530.9,134 530.9,130.8 "
-             id="polygon32574" />
-          <polygon
-             style="fill:#ff8f00"
-             points="509.6,127.6 509.6,130.9 530.9,130.9 530.9,127.6 "
-             id="polygon32576" />
-          <polygon
-             style="fill:#ff8800"
-             points="509.6,124.4 509.6,127.7 530.9,127.7 530.9,124.4 "
-             id="polygon32578" />
-          <polygon
-             style="fill:#ff8000"
-             points="509.6,121.2 509.6,124.5 530.9,124.5 530.9,121.2 "
-             id="polygon32580" />
-          <polygon
-             style="fill:#ff7800"
-             points="509.6,118.1 509.6,121.3 530.9,121.3 530.9,118.1 "
-             id="polygon32582" />
-          <polygon
-             style="fill:#ff7000"
-             points="509.6,114.9 509.6,118.2 530.9,118.2 530.9,114.9 "
-             id="polygon32584" />
-          <polygon
-             style="fill:#fe6900"
-             points="509.6,111.7 509.6,115 530.9,115 530.9,111.7 "
-             id="polygon32586" />
-          <polygon
-             style="fill:#fd6200"
-             points="509.6,108.6 509.6,111.8 530.9,111.8 530.9,108.6 "
-             id="polygon32588" />
-          <polygon
-             style="fill:#fc5b00"
-             points="509.6,105.4 509.6,108.7 530.9,108.7 530.9,105.4 "
-             id="polygon32590" />
-          <polygon
-             style="fill:#fb5400"
-             points="509.6,102.2 509.6,105.5 530.9,105.5 530.9,102.2 "
-             id="polygon32592" />
-          <polygon
-             style="fill:#fa4d00"
-             points="509.6,99.1 509.6,102.3 530.9,102.3 530.9,99.1 "
-             id="polygon32594" />
-          <polygon
-             style="fill:#f94600"
-             points="509.6,95.9 509.6,99.2 530.9,99.2 530.9,95.9 "
-             id="polygon32596" />
-          <polygon
-             style="fill:#f83f00"
-             points="509.6,92.7 509.6,96 530.9,96 530.9,92.7 "
-             id="polygon32598" />
-          <polygon
-             style="fill:#f63800"
-             points="509.6,89.5 509.6,92.8 530.9,92.8 530.9,89.5 "
-             id="polygon32600" />
-          <polygon
-             style="fill:#f53100"
-             points="509.6,86.4 509.6,89.6 530.9,89.6 530.9,86.4 "
-             id="polygon32602" />
-          <polygon
-             style="fill:#f42a00"
-             points="509.6,83.2 509.6,86.5 530.9,86.5 530.9,83.2 "
-             id="polygon32604" />
-          <polygon
-             style="fill:#f32300"
-             points="509.6,80 509.6,83.3 530.9,83.3 530.9,80 "
-             id="polygon32606" />
-          <polygon
-             style="fill:#f21c00"
-             points="509.6,76.9 509.6,80.1 530.9,80.1 530.9,76.9 "
-             id="polygon32608" />
-          <polygon
-             style="fill:#f11500"
-             points="509.6,73.7 509.6,77 530.9,77 530.9,73.7 "
-             id="polygon32610" />
-          <polygon
-             style="fill:#f00e00"
-             points="509.6,70.5 509.6,73.8 530.9,73.8 530.9,70.5 "
-             id="polygon32612" />
-          <polygon
-             style="fill:#ef0700"
-             points="509.6,67.4 509.6,70.6 530.9,70.6 530.9,67.4 "
-             id="polygon32614" />
-          <polygon
-             style="fill:#ee0000"
-             points="509.6,64.2 509.6,67.5 530.9,67.5 530.9,64.2 "
-             id="polygon32616" />
-          <polygon
-             style="fill:#e70000"
-             points="509.6,61 509.6,64.3 530.9,64.3 530.9,61 "
-             id="polygon32618" />
-          <polygon
-             style="fill:#e00000"
-             points="509.6,57.9 509.6,61.1 530.9,61.1 530.9,57.9 "
-             id="polygon32620" />
-          <polygon
-             style="fill:#d90000"
-             points="509.6,54.7 509.6,58 530.9,58 530.9,54.7 "
-             id="polygon32622" />
-          <polygon
-             style="fill:#d20000"
-             points="509.6,51.5 509.6,54.8 530.9,54.8 530.9,51.5 "
-             id="polygon32624" />
-          <polygon
-             style="fill:#cb0000"
-             points="509.6,48.3 509.6,51.6 530.9,51.6 530.9,48.3 "
-             id="polygon32626" />
-          <polygon
-             style="fill:#c40000"
-             points="509.6,45.2 509.6,48.4 530.9,48.4 530.9,45.2 "
-             id="polygon32628" />
-          <polygon
-             style="fill:#bd0000"
-             points="509.6,42 509.6,45.3 530.9,45.3 530.9,42 "
-             id="polygon32630" />
-          <polygon
-             style="fill:#b60000"
-             points="509.6,38.8 509.6,42.1 530.9,42.1 530.9,38.8 "
-             id="polygon32632" />
-          <polygon
-             style="fill:#af0000"
-             points="509.6,35.7 509.6,38.9 530.9,38.9 530.9,35.7 "
-             id="polygon32634" />
-          <polygon
-             style="fill:#a90000"
-             points="509.6,32.5 509.6,35.8 530.9,35.8 530.9,32.5 "
-             id="polygon32636" />
-          <polygon
-             style="fill:#a20000"
-             points="509.6,29.3 509.6,32.6 530.9,32.6 530.9,29.3 "
-             id="polygon32638" />
-          <polygon
-             style="fill:#9b0000"
-             points="509.6,26.2 509.6,29.4 530.9,29.4 530.9,26.2 "
-             id="polygon32640" />
-          <polygon
-             style="fill:#940000"
-             points="509.6,23 509.6,26.3 530.9,26.3 530.9,23 "
-             id="polygon32642" />
-          <polygon
-             style="fill:#8d0000"
-             points="509.6,19.8 509.6,23.1 530.9,23.1 530.9,19.8 "
-             id="polygon32644" />
-          <polygon
-             style="fill:#860000"
-             points="509.6,16.7 509.6,19.9 530.9,19.9 530.9,16.7 "
-             id="polygon32646" />
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 509.6,422.4 21.3,0 0,-405.7 -21.3,0 0,405.7 z m 0,0 h 0.01"
-           id="path32648" />
-        <path
-           inkscape:connector-curvature="0"
-           d="m 530.9,422.4 -9,0 h 0.01"
-           id="path32650" />
-        <g
-           transform="translate(539.2,426.9)"
-           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
-           id="g32652">
-          <text
-             id="text32654">0</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 509.6,422.4 9,0 m 12.3,-81.1 -9,0 h 0.01"
-           id="path32656" />
-        <g
-           transform="translate(539.2,345.8)"
-           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
-           id="g32658">
-          <text
-             id="text32660">0.2</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 509.6,341.3 9,0 m 12.3,-81.1 -9,0 h 0.01"
-           id="path32662" />
-        <g
-           transform="translate(539.2,264.7)"
-           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
-           id="g32664">
-          <text
-             id="text32666">0.4</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 509.6,260.2 9,0 m 12.3,-81.2 -9,0 h 0.01"
-           id="path32668" />
-        <g
-           transform="translate(539.2,183.5)"
-           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
-           id="g32670">
-          <text
-             id="text32672">0.6</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 509.6,179 9,0 m 12.3,-81.1 -9,0 h 0.01"
-           id="path32674" />
-        <g
-           transform="translate(539.2,102.4)"
-           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
-           id="g32676">
-          <text
-             id="text32678">0.8</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 509.6,97.9 9,0 m 12.3,-81.2 -9,0 h 0.01"
-           id="path32680" />
-        <g
-           transform="translate(539.2,21.2)"
-           style="font-size:15px;text-anchor:start;fill:#000000;stroke:none;font-family:Arial"
-           id="g32682">
-          <text
-             id="text32684">1</text>
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="m 509.6,16.7 9,0 h 0.01"
-           id="path32686" />
-      </g>
-    </g>
     <rect
-       y="-920.54791"
-       x="3286.7798"
-       height="427.5"
-       width="411.83066"
+       y="-932.53662"
+       x="3286.9919"
+       height="439.27652"
+       width="490.34982"
        id="rect32939"
-       style="fill:#e5d699;fill-opacity:1;stroke:#bf9900;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#e5d699;fill-opacity:1;stroke:#bf9900;stroke-width:4.42440224;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <flowRoot
        transform="translate(1.7797553,-2203.0479)"
        style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#002666;fill-opacity:1;stroke:none;font-family:Sans"
@@ -5851,16 +5864,17 @@
        xml:space="preserve"><flowRegion
          id="flowRegion32943"><rect
            style="font-size:28px;fill:#002666;fill-opacity:1"
-           y="1280.3152"
-           x="3295.1562"
-           height="429.90295"
-           width="392.20044"
+           y="1270.8419"
+           x="3293.5774"
+           height="456.74384"
+           width="479.03848"
            id="rect32945" /></flowRegion><flowPara
-         id="flowPara32947">Fromm's Method with Van-Leer flux-limiters yields nearly second-order accuracy in the L<flowSpan
-   id="flowSpan6809"
-   style="font-size:65.00091553%;baseline-shift:super">1</flowSpan> and L<flowSpan
-   id="flowSpan6811"
-   style="font-size:65.00091553%;baseline-shift:super">2</flowSpan> norms with discontinuous initial data, while preserving sharp corners with greater accuracy than the Upwind Method. The initial conditions for this plot are identical to those shown previously.</flowPara></flowRoot>    <rect
+         id="flowPara32947"
+         style="font-size:32px">Fromm's Method with Van-Leer flux-limiters yields nearly second-order accuracy in the L<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan7577">1</flowSpan> and L<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan7579">2</flowSpan> norms with discontinuous initial data, while preserving sharp corners with greater accuracy than the Upwind Method. The initial conditions for this plot are identical to those shown previously.</flowPara></flowRoot>    <rect
        y="-468.80499"
        x="3285"
        height="89.99968"
@@ -5895,7 +5909,7 @@
            height="1292.6796"
            width="945.75531"
            id="rect32986" /></flowRegion><flowPara
-         id="flowPara6813">The introduction of nonlinear flux-limiting has adequately addressed the overshoot/undershoot problem in FDM. However, attempts to use techniques based on artificial viscosity or &quot;clipping&quot; in FEM models of mantle convection have proven to be inadequate. We plan to address the overshoot/undershoot problem by using RKDG FEM in mantle convection codes. For more information, see the poster &quot;Runge-Kutta Galerkin Method for the Advection-Diffusion Equation&quot;(DI31A-2199) by Rajesh Kommu.</flowPara></flowRoot>    <g
+         id="flowPara6813">The introduction of nonlinear flux-limiting has adequately addressed the overshoot/undershoot problem in FDM. However, attempts to use techniques based on artificial viscosity or &quot;clipping&quot; in FEM models of mantle convection have proven to be inadequate. We plan to address the overshoot/undershoot problem by using RKDG FEM in mantle convection codes. For more information, see the poster &quot;Runge-Kutta Discontinuous Galerkin Method for Advection-Diffusion Problems&quot;(DI31A-2199) by Rajesh Kommu.</flowPara></flowRoot>    <g
        id="g4868"
        inkscape:label="ink_ext_XXXXXX"
        transform="matrix(1.7691126,0,0,-1.7691126,270,-1861.425)">
